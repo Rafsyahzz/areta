@@ -10,7 +10,10 @@ featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 tags:
   - kampusfullpraktek
+  - AretaInformaticsCollege
 ---
+![Kampus Full Praktik](/img/products-grid2.jpg "Kampus Full Praktik")
+
 P﻿erkembangan teknologi yang begitu cepat menuntut bisnis dan dunia industri untuk mengikuti perkembangan jaman, namun tidak demikian dengan dunia akademis, terkadang sangat tertinggal dan tidak up to date dalam model pembelajaran bahkan kurikulum yang digunakan.
 
 H﻿al ini menjadikan perhatian yang sangat serius bagi kami sebagai tempat belajar di kampus Areta Informatics College. Untuk itu kami mengembangakan metode pembalajaran full praktek dengan mengusung konsep belajar 90% praktek 10% teori. 
