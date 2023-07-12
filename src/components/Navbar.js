@@ -14,8 +14,8 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+          <Link to="/" className="navbar-item" title="Areta">
+            <img src={logo} alt="Kampus Full Praktik" style={{ width: "99px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
