@@ -5,25 +5,19 @@ image: /img/home-jumbotron.jpg
 heading: Kurikulum berbasis Industri
 subheading: Kampus Full Praktek
 mainpitch:
-  title: Mengapa Areta Informatics College?
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Mengapa kuliah harus di Areta Informatics College?
+  description: Areta Informatics College menerapkan pendidikan dengan konsep
+    belajar full praktek dengan kurikulum industri dan pengajar dari praktisi.
+description: Kurikulum yang dikembangkan sesuai dengan kebutuhan industri yang
+  dibuat oleh para praktisi dibidangnya. Sehingga keterampilan yang dimiliki
+  oleh mahasiswa/i kami cepat diserap didunia industri.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Mahasiswa/i kami pada awal semestar yakni semester 1 dan semester 2 wajib
+        untuk mengikuti kelas sertifikasi internasional. Sehingga diharapkan di
+        tahun pertama saja mereka sudah dapat bekerja di bidang IT dan Bisnis
+        Digital.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
