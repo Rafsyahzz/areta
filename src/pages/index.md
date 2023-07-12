@@ -18,12 +18,12 @@ intro:
         untuk mengikuti kelas sertifikasi internasional. Sehingga diharapkan di
         tahun pertama saja mereka sudah dapat bekerja di bidang IT dan Bisnis
         Digital.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/bisnis-digital.png
+      text: Mahasiswa/i kami mendapatkan matakuliah enterpreneurship, leadership dan
+        juga public speaking. Keterampilan ini menjadi pondasi dasar untuk
+        mereka mampu bersaing di dunia industri dan bisnis, Baik sebagai tenaga
+        profesional di bidang IT, Digital Marketing maupun sebagai seorang
+        pengusaha atau owner bisnis.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
