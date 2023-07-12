@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Areta">
-            <img src={logo} alt="Kampus Full Praktik" style={{ width: "99px" }} />
+            <img src={logo} alt="Kampus Full Praktik" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
