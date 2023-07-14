@@ -24,7 +24,7 @@ intro:
         mereka mampu bersaing di dunia industri dan bisnis, Baik sebagai tenaga
         profesional di bidang IT, Digital Marketing maupun sebagai seorang
         pengusaha atau owner bisnis.
-    - image: /img/tutorials.png
+    - image: /img/aic-yoga.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
