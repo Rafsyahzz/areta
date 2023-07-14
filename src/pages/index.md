@@ -33,7 +33,7 @@ intro:
     - image: /img/aic-izmi.png
       text: Mahasiswa/i kami disamping memiliki skill dan kompetensi untuk dapat
         bersaing di dunia kerja, juga memiliki skill dan kompetensi untuk
-        mencipatakan lapangan kerja dengan menjadi pengusaha.
+        menciptakan lapangan kerja dengan menjadi pengusaha.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
