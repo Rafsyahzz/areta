@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+//import github from "../img/github-icon.svg";
 import logo from "../img/logo.svg";
 
 const Navbar = () => {
@@ -40,7 +40,7 @@ const Navbar = () => {
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/products">
-              Products
+              Programs
             </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
@@ -53,15 +53,16 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
+            {/*
             <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact/examples">
               Form Examples
             </Link>
             </li>
-          <li className="navbar-end has-text-centered">
+            <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="https://github.com/syukrie77/aretacollege.com.new"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -69,7 +70,8 @@ const Navbar = () => {
                 <img src={github} alt="Github" />
               </span>
             </a>
-          </li>
+          </li> */}
+          
         </ul>
       </div>
     </nav>
