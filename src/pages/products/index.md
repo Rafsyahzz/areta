@@ -44,21 +44,22 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Sistem Informasi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Belajar dan berlatih Pemrograman, Sistem Informasi Manjemen, Design dengan
+    Adobe Photoshop, Coreldraw, UI/UX, Database, Mobile Programming, Web
+    Programming.
+
+    Mendapatkan Bonus GRATIS Keahlian: LINUX/UNIX Server
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Teknik Informatika Sistem Informasi dan Bisnis Digital
+    image: /img/aic-ayu-semangat.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/aic-berempat.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/aic-foto-bareng.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -66,7 +67,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/aic-ayu-yoga.png
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
