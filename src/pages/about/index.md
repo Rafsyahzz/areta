@@ -13,12 +13,12 @@ Sejalan dengan Visinya "Gerbang Insan Mandiri" (Human Independent Gateway), maka
 
 ### Visi
 
-'Gerbang Insan Mandiri' mencerminkan figur areta dimasa mendatang, yakin sebagai lembaga yang berfungsi sebagai pintu masuk menuju terbentuknya karakter SDM yang unggul dan berkarakter.
+'Gerbang Insan Mandiri' mencerminkan figur areta dimasa mendatang, yakni sebagai lembaga yang berfungsi sebagai pintu masuk menuju terbentuknya karakter SDM yang unggul dan berkarakter.  
 
 'INSAN MANDIRI' mencerminkan kualitas SDM yang telah mengenyam pendidikan di AIC benar-benar siap dan mampu bersaing di dunia Profesional dan dunia usaha, khusus nya di bidang Teknologi informasi dan Enterprenurship.
 
 ### Misi
 
-Mencetak IT Profesional yang diminati dan diserap dunia kerja nyata, secara produktif dan berkesinambungan, melalui pengembangan sistem pembelajaran IT, profesional yang efektif dana efisien.
+Mencetak IT Profesional yang diminati dan diserap dunia kerja nyata, secara produktif dan berkesinambungan, melalui pengembangan sistem pembelajaran IT, profesional yang efektif dan efisien.
 
 Mencetak Enterprenurship yang memiliki kapasitas dan kemampuan dalam merintis, menjalankan dan mengembangkan usaha dibidang IT, maupun bidang lain, melalui pengembangan sistem pembelajaran, Enterprenurship yang efektif dan efisien.
