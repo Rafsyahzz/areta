@@ -62,7 +62,7 @@ testimonials:
   - author: Areta Informatics College
     quote: Berlatih dengan terus mengulang ulangnya lebih cepat berhasil, walaupun
       anda bukan orang cerdas.
-full_image: /img/home-jumbotron.jpg
+full_image: /img/banner-areta-college.jpg
 pricing:
   heading: Biaya Kuliah
   description: Kami memberikan kesempatan kapada calon mahasiswa/i untuk bergabung
