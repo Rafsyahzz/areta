@@ -3,7 +3,7 @@ heading: Teknik Informatika
 path: /products
 templateKey: product-page
 title: Areta Informatics College Programs
-image: /img/aic-teknik-informatika.png
+image: /img/banner-areta-college.jpg
 description: Belajar dan berlatih Networking seperti CISCO, MIKROTIK, Networking
   with Linux/UNIX, Linux Server, Hacking Penetration & Security, Firewall,
   Database MySQL/PostgreSQL/Oracle. Mendapatkan BONUS GRATIS Keahlian Web
