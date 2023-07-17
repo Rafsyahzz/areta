@@ -11,32 +11,28 @@ description: Belajar dan berlatih Networking seperti CISCO, MIKROTIK, Networking
 intro:
   blurbs:
     - image: /img/aic-ayu-yoga.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Mahaiswa/i Areta Informatics College dilatih untuk menguasai setiap materi
+        di bidang Teknik Informatika untuk dapat menggunakan perangkat
+        networking yang dibutuhkan di dunia industri seperti CISO, Mikrotik dan
+        perangkat networking yang up to date lainnya. Pembelajaran dimulai dari
+        dasar, menengah sampai tingkat mahir dengan konsep belajar full praktek
+        dengan membedah kasus-kasus yang terjadi dilapangan.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Tidak hanya dilatih secara masif dibidang networking, mahasiswa/i Areta
+        Informatics College dibekali juga keterampilan dibidang server dan
+        administrasinya tentunya dibekali juga dengan keahlian dibidang security
+        sehingga dapat melengkapi keahlian networkingnya.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Agar keterampilan mahasiswa/i Areta Informatics College lengkap secara
+        skill dibidang IT, tak lupa juga dibekali keterampilan dibidang bisnis
+        dengan fondasi keahlian seperti entrepreneurship, leadership, dan public
+        speaking.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Yang tak kalah pentingnya dari keahlian Networking, Server, Security,
+        bisnis, Mahasiswa/i diberikan juga keterampilan untuk memprogram dan
+        medesain web, tidak hanya itu mahasiwa/i juga dibekali teknik dan cara
+        bagaimana mengembangan sendiri aplikasinya untuk dipasarkan melalui
+        media internet dengan keahlian Digital Marketing.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
