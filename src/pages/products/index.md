@@ -67,7 +67,8 @@ pricing:
   heading: Biaya Kuliah
   description: Kami memberikan kesempatan kapada calon mahasiswa/i untuk bergabung
     bersama Areta Informatics College dengan investasi pendidikan yang
-    kompetitif dan dapat dicicil sesuai dengan program yang diambil.
+    kompetitif dan dapat dicicil sesuai dengan program yang diambil. Investasi
+    selama 1 tahun dapat di cicil per bulan dan per semester.
   plans:
     - description: "Anda akan belajar dengan skill dari dasar sampai tingkat mahir di
         bidang:"
