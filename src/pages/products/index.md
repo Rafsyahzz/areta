@@ -3,7 +3,7 @@ heading: Teknik Informatika
 path: /products
 templateKey: product-page
 title: Areta Informatics College Programs
-image: /img/banner-areta-college.jpg
+image: /img/areta-publicspeacking.jpg
 description: Belajar dan berlatih Networking seperti CISCO, MIKROTIK, Networking
   with Linux/UNIX, Linux Server, Hacking Penetration & Security, Firewall,
   Database MySQL/PostgreSQL/Oracle. Mendapatkan BONUS GRATIS Keahlian Web
@@ -62,7 +62,7 @@ testimonials:
   - author: Areta Informatics College
     quote: Berlatih dengan terus mengulang ulangnya lebih cepat berhasil, walaupun
       anda bukan orang cerdas.
-full_image: /img/banner-areta-college.jpg
+full_image: /img/areta-publicspeacking.jpg
 pricing:
   heading: Biaya Kuliah
   description: Kami memberikan kesempatan kapada calon mahasiswa/i untuk bergabung
