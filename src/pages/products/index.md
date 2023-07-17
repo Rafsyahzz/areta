@@ -17,17 +17,17 @@ intro:
         perangkat networking yang up to date lainnya. Pembelajaran dimulai dari
         dasar, menengah sampai tingkat mahir dengan konsep belajar full praktek
         dengan membedah kasus-kasus yang terjadi dilapangan.
-    - image: /img/coffee-gear.png
+    - image: /img/areta-dedi.jpg
       text: Tidak hanya dilatih secara masif dibidang networking, mahasiswa/i Areta
         Informatics College dibekali juga keterampilan dibidang server dan
         administrasinya tentunya dibekali juga dengan keahlian dibidang security
         sehingga dapat melengkapi keahlian networkingnya.
-    - image: /img/tutorials.png
+    - image: /img/areta-sopyan.jpg
       text: Agar keterampilan mahasiswa/i Areta Informatics College lengkap secara
         skill dibidang IT, tak lupa juga dibekali keterampilan dibidang bisnis
         dengan fondasi keahlian seperti entrepreneurship, leadership, dan public
         speaking.
-    - image: /img/meeting-space.png
+    - image: /img/areta-azizi.jpg
       text: Yang tak kalah pentingnya dari keahlian Networking, Server, Security,
         bisnis, Mahasiswa/i diberikan juga keterampilan untuk memprogram dan
         medesain web, tidak hanya itu mahasiwa/i juga dibekali teknik dan cara
