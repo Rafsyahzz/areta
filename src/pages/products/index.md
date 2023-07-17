@@ -77,7 +77,7 @@ pricing:
         - Linux Server
         - Security
       plan: Teknik Informatika
-      price: 10.000.000
+      price: 800K/Bln
     - description: "Anda akan belajar dengan skill dari dasar sampai tingkat mahir di
         bidang:"
       items:
@@ -85,7 +85,7 @@ pricing:
         - Full Stack Programming
         - MySQL/PostgreSQL
       plan: Sistem Informasi
-      price: 10.000.000
+      price: 750K/Bln
     - description: "Anda akan belajar dengan skill dari dasar sampai tingkat mahir di
         bidang:"
       items:
@@ -94,5 +94,5 @@ pricing:
         - FBAds & GoogleAds
         - Youtube Marketing
       plan: Digital Marketing
-      price: 10.000.000
+      price: 750K/Bln
 ---
