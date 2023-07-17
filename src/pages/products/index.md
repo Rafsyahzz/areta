@@ -54,41 +54,44 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/aic-berempat.png
   image3:
-    alt: Coffee beans
+    alt: Kampus Full Praktek
     image: /img/aic-foto-bareng.png
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Areta Informatics College
+    quote: Cara tercepat untuk menguasai keterampilan, adalah dengan mempraktekkannya.
+  - author: Areta Informatics College
+    quote: Berlatih dengan terus mengulang ulangnya lebih cepat berhasil, walaupun
+      anda bukan orang cerdas.
 full_image: /img/blog-index.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Biaya Kuliah
+  description: Kami memberikan kesempatan kapada calon mahasiswa/i untuk bergabung
+    bersama Areta Informatics College dengan investasi pendidikan yang
+    kompetitif dan dapat dicicil sesuai dengan program yang diambil.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: "Anda akan belajar dengan skill dari dasar sampai tingkat mahir di
+        bidang:"
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - CISCO & Mikrotik
+        - Linux Server
+        - Security
+      plan: Teknik Informatika
+      price: 10.000.000
+    - description: "Anda akan belajar dengan skill dari dasar sampai tingkat mahir di
+        bidang:"
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - UI/UX
+        - Full Stack Programming
+        - MySQL/PostgreSQL
+      plan: Sistem Informasi
+      price: 10.000.000
+    - description: "Anda akan belajar dengan skill dari dasar sampai tingkat mahir di
+        bidang:"
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - SEO
+        - Google Analytics
+        - FBAds & GoogleAds
+        - Youtube Marketing
+      plan: Digital Marketing
+      price: 10.000.000
 ---
