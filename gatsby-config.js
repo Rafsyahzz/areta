@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Kampus Full Praktek Pengajar Praktisi",
+    title: "Kampus IT dan Bisnis Full Praktek Pengajar Praktisi di Tangerang",
     description:
       "Official website Areta Informatics College dikembakangkan dengan framework GatsbyJS dan CMS Netlify.",
   },
