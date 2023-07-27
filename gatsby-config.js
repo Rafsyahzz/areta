@@ -59,6 +59,22 @@ module.exports = {
               destinationDir: "static",
             },
           },
+          {
+            resolve: 'gatsby-plugin-next-seo',
+            options: {
+              openGraph: {
+                type: 'website',
+                locale: 'en_IE',
+                url: 'https://aretacollege.netlify.app/',
+                site_name: 'AretaCollege',
+              },
+              twitter: {
+                handle: '@aretacollege',
+                site: '@aretacollege',
+                cardType: 'summary_large_image',
+              },
+            },
+          },
         ],
       },
     },
