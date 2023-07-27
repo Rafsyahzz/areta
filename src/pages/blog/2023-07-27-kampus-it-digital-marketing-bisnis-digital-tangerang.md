@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Kampus IT Digital Marketing Bisnis Digital Tangerang Pelopor Belajar Full
   Praktek
-date: 2023-07-27T09:20:40.002Z
+date: 2023-07-27T09:45:40.258Z
 description: >
   Kampus digital marketing yang membuka jurusan digital marketing atau bisnis
   digital dengan metode full praktek hanya ada di kampus Areta Informatics
