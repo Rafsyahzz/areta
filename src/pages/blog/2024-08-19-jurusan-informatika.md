@@ -15,6 +15,7 @@ tags:
 
 #### Pengantar
 
+![jurusan Informatika](/img/aic-ayu-semangat.png "Jurusan Informatika")
 Dalam era digital yang semakin maju, kebutuhan akan ahli teknologi informasi (IT) terus meningkat. Tangerang, sebagai salah satu kota penyangga Jakarta, telah menjadi pusat pendidikan tinggi yang menawarkan berbagai program studi di bidang teknologi informasi. Salah satu institusi yang menonjol adalah Areta Informatics College. Dalam artikel ini, kita akan membahas secara mendalam mengapa Areta Informatics College adalah pilihan terbaik bagi Anda yang ingin menekuni dunia IT melalui jurusan Teknik Informatika. 
 
 #### Kampus IT Tangerang: Pusat Pendidikan yang Berkembang Pesat
