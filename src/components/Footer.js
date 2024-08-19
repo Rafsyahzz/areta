@@ -210,7 +210,7 @@ const Footer = () => {
 
  
   <div className="bg-black p-6 text-center text-white">
-    <span>© 2013-2023 Copyright: </span>
+    <span>© 2013-2024 Copyright: </span>
     <a
       className="font-semibold text-neutral-600 text-white"
       href="https://aretacollege.com/"
