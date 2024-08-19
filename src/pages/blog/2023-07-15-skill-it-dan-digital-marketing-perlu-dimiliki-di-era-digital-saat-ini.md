@@ -6,11 +6,12 @@ description: Kecepatan perkembangan teknologi informasi saat ini, memberikan
   angin segar bagi pelaku usaha UMKM khususnya di Indonesia. Terjadinya pandemi
   covid 19 beberapa waktu yang lalu, meluluh lantahkan perusahaan-perusahaan
   besar yang mengakibatkan PHK besar besaran terjadi.
-featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredpost: false
+featuredimage: /img/foto-joshua.jpg
 tags:
   - UMKM
 ---
+![Kampus Full Praktik](/img/foto-joshua.jpg "Kampus Full Praktik")
 P﻿erlunya mahasiswa/i memiliki skill IT dan Digital Marketing di era digital saat ini. Tidak dapat dipungkiri era sekarang adalah era dimana UMKM dapat naik kelas dengan menggunakan teknologi.
 
 P﻿erkembanga yang begitu cepat memberikan dampak yang luar biasa bagi pelaku usaha di negeri ini, tentunya diseluruh dunia juga demikian. Banyak UMKM yang melejit bisnisnya menjadi usaha kelas menengah bahkan kelas atas dengan memanfaatkan teknologi sebagai basis usaha dan inovasinya.

@@ -6,13 +6,13 @@ description: Mengapa Areta Informatics College mengusung model pembelajaran full
   praktek? karena tujuan untuk mendidik mahasiswa/i siap kerja sebelum mereka
   lulus kuliah. Dengan metode pembalajaran 90% praktek dengan 10% teori
   menjadikan mahasiswa/i kami bisa bekerja dan punya bisnis dengan cepat.
-featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredpost: false
+featuredimage: /img/areta-publicspeacking.jpg
 tags:
   - kampusfullpraktek
   - AretaInformaticsCollege
 ---
-![Kampus Full Praktik](/img/products-grid2.jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/areta-publicspeacking.jpg "Kampus Full Praktik")
 
 P﻿erkembangan teknologi yang begitu cepat menuntut bisnis dan dunia industri untuk mengikuti perkembangan jaman, namun tidak demikian dengan dunia akademis, terkadang sangat tertinggal dan tidak up to date dalam model pembelajaran bahkan kurikulum yang digunakan.
 

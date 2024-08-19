@@ -9,7 +9,7 @@ description: >
   College. Belajar dengan konsep 90% praktek 10% teori memberikan pemahaman yang
   cepat kepada mahasiswa mahasiswi jurusan digital marketing/bisnis digital
   ini. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/implementasi-erp-areta-college.jpg
 tags:
   - bisnis digital
