@@ -31,12 +31,16 @@ Bagi Anda yang tertarik mengikuti training sertifikasi MTCNA berikutnya, Areta I
 Jangan lewatkan kesempatan untuk meningkatkan keterampilan jaringan Anda dan memperoleh sertifikasi yang sangat dihargai di dunia IT.
 
 #### Mengapa Memilih Training MTCNA di Areta Informatics College?
-**Lokasi Strategis:** Terletak di Tangerang, dekat dengan ibu kota Jakarta.
-**Instruktur Berkualitas:** Pelatihan dipandu oleh trainer berpengalaman seperti Pak Achmad Mardiansyah dan Muhammad Farhan Fauzi.
-**Fasilitas Lengkap:** Mendapatkan pengalaman praktis langsung dengan perangkat MikroTik.
-**Jaringan Profesional:** Kesempatan untuk berinteraksi dengan profesional lain dalam bidang yang sama.
+**Lokasi Strategis:** 
+Terletak di Tangerang, dekat dengan ibu kota Jakarta.
+**Instruktur Berkualitas:** 
+Pelatihan dipandu oleh trainer berpengalaman seperti Pak Achmad Mardiansyah dan Muhammad Farhan Fauzi.
+**Fasilitas Lengkap:** 
+Mendapatkan pengalaman praktis langsung dengan perangkat MikroTik.
+**Jaringan Profesional:** 
+Kesempatan untuk berinteraksi dengan profesional lain dalam bidang yang sama.
 
 #### Daftar Sekarang dan Tingkatkan Karier Anda!
 Jangan lewatkan kesempatan untuk menjadi ahli jaringan bersertifikasi global dengan pelatihan MTCNA di Areta Informatics College. Daftar sekarang dan jadikan diri Anda lebih berdaya saing di pasar kerja internasional.
 
-#### untuk pendaftaran dan jadwal training bisa hub wa.me/6285219507377
+#### untuk pendaftaran dan jadwal training bisa hub https://wa.me/6285219507377
