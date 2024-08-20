@@ -4,7 +4,7 @@ title: Training Sertifikasi MikroTik MTCNA di Tangerang
 date: 2024-08-19
 description: Training Sertifikasi MikroTik MTCNA di Tangerang, Jadi Ahli Jaringan Bersertifikasi Global!
 featuredpost: false
-featuredimage: /img/training-mikrotik.jpg
+featuredimage: /img/training-mikrotik-mtcna.jpg
 tags:
   - Sertifikasi MikroTik
   - Training MTCNA
@@ -13,7 +13,7 @@ tags:
   - Pelatihan IT
 ---
 
-![Kampus Full Praktik](/img/training-mikrotik.jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/training-mikrotik-mtcna.jpg "Kampus Full Praktik")
 Dalam era digital yang semakin berkembang pesat, kebutuhan akan profesional di bidang jaringan komputer semakin tinggi. Salah satu sertifikasi yang paling dikenal di dunia jaringan adalah MikroTik Certified Network Associate (MTCNA). Sertifikasi ini menjadi batu loncatan penting bagi siapa pun yang ingin meniti karier di bidang jaringan. Dalam artikel ini, kita akan membahas secara mendalam tentang pentingnya sertifikasi MTCNA, manfaat mengikuti training di Tangerang, serta peluang karier yang terbuka lebar bagi para pemegang sertifikasi ini.
 
 #### Apa Itu Sertifikasi MikroTik MTCNA?
