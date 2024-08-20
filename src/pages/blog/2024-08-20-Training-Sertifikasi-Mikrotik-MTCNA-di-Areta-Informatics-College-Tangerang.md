@@ -13,7 +13,7 @@ tags:
   - Pelatihan IT 2024
 ---
 
-![Training IT](/img/training-IT.jpg "Training IT")
+![Training IT](/img/Training-IT.jpg "Training IT")
 #### Pelatihan Sertifikasi MTCNA: Menyiapkan Ahli Jaringan Masa Depan
 Pada tanggal 27-28 Juli 2024, Areta Informatics College Tangerang menyelenggarakan Training Sertifikasi MikroTik Certified Network Associate (MTCNA) yang sukses diikuti oleh 17 peserta. Event ini merupakan kesempatan emas bagi para profesional jaringan untuk mendapatkan sertifikasi internasional yang diakui di seluruh dunia.
 
