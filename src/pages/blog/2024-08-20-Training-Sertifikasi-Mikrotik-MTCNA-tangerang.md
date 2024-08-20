@@ -4,13 +4,13 @@ title: Training Sertifikasi MikroTik MTCNA di Tangerang
 date: 2024-08-19
 description: Training Sertifikasi MikroTik MTCNA di Tangerang, Jadi Ahli Jaringan Bersertifikasi Global!
 featuredpost: false
-featuredimage: /img/training mikrotik.jpg
+featuredimage: /img/training-mikrotik.jpg
 tags:
-  - Kampus IT Tangerang
-  - Kuliah IT Tangerang
-  - Kuliah Jurusan Teknik Informatika
-  - Jurusan Teknik Informatika
-  - Areta Informatics College
+  - Sertifikasi MikroTik
+  - Training MTCNA
+  - Ahli Jaringan
+  - MikroTik Tangerang
+  - Pelatihan IT
 ---
 
 ![Kampus Full Praktik](/img/training-mikrotik.jpg "Kampus Full Praktik")
