@@ -4,7 +4,7 @@ module.exports = {
     description:
       "Official website Areta Informatics College dikembakangkan dengan framework GatsbyJS dan CMS Netlify.",
     author : "eka",
-    keywords: "Kampus IT Tangerang, Kuliah IT Tangerang, Kuliah Jurusan Teknik Informatika, Jurusan Teknik Informatika, Areta Informatics College, kampusfullpraktek, AretaInformaticsCollege,bisnis digital, digital marketing, full praktek,Kampus IT Tangerang, Kuliah IT Tangerang, Kuliah Jurusan Teknik Informatika, Jurusan Teknik Informatika, Areta Informatics College, Training Sertifikasi MikroTik, Sertifikasi MTCNA, Pelatihan Jaringan Tangerang, Areta Informatics College, Pelatihan IT 2024", 
+    keywords: "Kampus IT Tangerang, Kuliah IT Tangerang, Kuliah Jurusan Teknik Informatika, Jurusan Teknik Informatika, Areta Informatics College, kampusfullpraktek, AretaInformaticsCollege,bisnis digital, digital marketing, full praktek,Kampus IT Tangerang, Kuliah IT Tangerang, Kuliah Jurusan Teknik Informatika, Jurusan Teknik Informatika, Areta Informatics College, Training Sertifikasi MikroTik, Sertifikasi MTCNA, Pelatihan Jaringan Tangerang, Areta Informatics College, Pelatihan IT 2024, Sertifikasi MikroTik, Training MTCNA, Ahli Jaringan, MikroTik Tangerang, Pelatihan IT", 
    
   },
   plugins: [
