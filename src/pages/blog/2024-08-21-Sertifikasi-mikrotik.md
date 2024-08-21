@@ -5,7 +5,7 @@ date: 2024-08-19
 description: Persiapkan Diri untuk Sertifikasi Mikrotik di Bulan Oktober 2024 di Kampus Full Praktek Areta Informatics College
 
 featuredpost: false
-featuredimage: /img/sertifikasi-mikrotik.jpg
+featuredimage: /img/sertifikasi-mikrotik.jpeg
 tags:
   - Sertifikasi Mikrotik 2024
   - Areta Informatics College
@@ -14,7 +14,7 @@ tags:
   - Sertifikasi IT
 ---
 
-![Training Sertifikasi Mikrotik](/sertifikasi-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")
+![Training Sertifikasi Mikrotik](/sertifikasi-mikrotik-mtcna.jpeg "Training Sertifikasi Mikrotik")
 Sertifikasi Mikrotik merupakan salah satu langkah penting bagi para profesional dan mahasiswa yang ingin mendalami dunia jaringan komputer. Di bulan Oktober 2024, Areta Informatics College akan menyelenggarakan sertifikasi Mikrotik dengan fokus pada pembelajaran berbasis full praktik. Kesempatan ini menjadi momen berharga bagi mereka yang ingin memperdalam keahlian dalam manajemen jaringan berbasis Mikrotik.
 
 #### Mengapa Sertifikasi Mikrotik Penting?
