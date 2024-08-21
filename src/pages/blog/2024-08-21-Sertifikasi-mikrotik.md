@@ -13,6 +13,8 @@ tags:
   - Mikrotik Full Praktek
   - Sertifikasi IT
   - training mikrotik
+  - sertifikasi MTCNA
+  - sertifikasi jaringan
 ---
 
 ![Sertifikasi Mikrotik](/img/sertifikasi-mikrotik.jpg "Sertifikasi Mikrotik")
