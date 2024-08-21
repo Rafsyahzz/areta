@@ -12,6 +12,7 @@ tags:
   - Pelatihan Jaringan Komputer
   - Mikrotik Full Praktek
   - Sertifikasi IT
+  - training mikrotik
 ---
 
 ![Sertifikasi Mikrotik](/img/sertifikasi-mikrotik.jpg "Sertifikasi Mikrotik")
