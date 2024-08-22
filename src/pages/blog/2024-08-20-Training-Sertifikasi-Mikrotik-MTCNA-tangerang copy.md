@@ -11,6 +11,9 @@ tags:
   - Ahli Jaringan
   - MikroTik Tangerang
   - Pelatihan IT
+  - training mikrotik jakarta
+  - mtcna sertifikat
+  - training sertifikasi mikrotik
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")
