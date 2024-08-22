@@ -39,4 +39,4 @@ Agar dapat mengikuti ujian sertifikasi dengan sukses, ada beberapa hal yang perl
 
 Kedua, melakukan praktik berulang kali. Penguasaan konfigurasi router dan troubleshooting jaringan adalah kunci sukses dalam ujian sertifikasi Mikrotik. Terakhir, jangan lupa untuk selalu mempelajari materi ujian dari sumber resmi dan update terkini terkait teknologi jaringan.
 
-#### untuk pendaftaran dan jadwal training bisa hub wa.me/6285219507377
+#### untuk pendaftaran dan jadwal training bisa hub https://wa.me/6285219507377

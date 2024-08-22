@@ -42,4 +42,4 @@ Setelah menyelesaikan MTCNA, Anda dapat melanjutkan ke tingkat sertifikasi Mikro
 #### Jadwal dan Pendaftaran Sertifikasi Mikrotik Oktober 2024
 Untuk Mengikuti Sertifikasi Mikrotik MTCNA di Areta Informatics College anda bisa daftar dan menanyakan jadwal MTCNA terdekat. Untuk jadwal Sertifikasi MTCNA akan diadakan tanggal 26-27 Oktober 2024. Pendaftaran sudah dibuka mulai sekarang, dengan kuota yang terbatas. Pastikan Anda mendaftar lebih awal untuk mengamankan tempat dan mendapatkan biaya training earlybird. Proses pendaftaran sangat mudah dan dapat dilakukan denagn menghubungi admin areta.
 
-#### untuk pendaftaran dan jadwal training bisa hub wa.me/6285219507377
+#### untuk pendaftaran dan jadwal training bisa hub https://wa.me/6285219507377

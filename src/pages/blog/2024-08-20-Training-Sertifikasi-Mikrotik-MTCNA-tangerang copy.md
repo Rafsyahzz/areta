@@ -99,4 +99,4 @@ Manfaatkan lab atau simulator jaringan untuk praktik lebih lanjut.
 8. **Ikut Komunitas:**
 Bergabung dengan komunitas IT lokal untuk berbagi pengetahuan dan pengalaman.
 
-#### untuk pendaftaran dan jadwal training bisa hub wa.me/6285219507377
+#### untuk pendaftaran dan jadwal training bisa hub https://wa.me/6285219507377
