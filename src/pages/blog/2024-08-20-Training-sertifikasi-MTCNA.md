@@ -11,6 +11,9 @@ tags:
   - Pelatihan Jaringan Tangerang
   - Areta Informatics College
   - Pelatihan IT 2024
+  - MTCNA
+  - Training Sertifikasi MTCNA
+  - basic mikrotik training
 ---
 
 ![Training IT](/img/Training-IT.jpg "Training IT")
