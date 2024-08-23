@@ -14,6 +14,11 @@ tags:
   - training mikrotik jakarta
   - mtcna sertifikat
   - training sertifikasi mikrotik
+  - training sertifikasi mikrotik tangerang
+  - training sertifikasi mikrotik bandung
+  - training sertifikasi mikrotik surabaya
+  - training sertifikasi mtcna
+  - training sertifikasi mtcna mikrotik
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")

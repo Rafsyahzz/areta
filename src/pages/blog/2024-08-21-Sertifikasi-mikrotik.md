@@ -8,6 +8,9 @@ featuredpost: false
 featuredimage: /img/sertifikasi-mikrotik.jpg
 tags:
   - Sertifikasi Mikrotik 2024
+  - sertifikasi mikrotik mtcna
+  - sertifikasi mikrotik indonesia
+  - sertifikasi mikrotik mtcna
   - Areta Informatics College
   - Pelatihan Jaringan Komputer
   - Mikrotik Full Praktek

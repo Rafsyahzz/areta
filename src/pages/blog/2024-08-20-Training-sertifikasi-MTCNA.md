@@ -7,6 +7,11 @@ featuredpost: false
 featuredimage: /img/Training-IT.jpg
 tags:
   - Training Sertifikasi MikroTik
+  - training sertifikasi MTCNA
+  - training sertifikasi mtcna mikrotik
+  - training sertifikasi mtcna associate
+  - training sertifikasi mtcna bandung
+  - training sertifikasi mtcna bekasi
   - Sertifikasi MTCNA
   - Pelatihan Jaringan Tangerang
   - Areta Informatics College
