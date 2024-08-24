@@ -12,6 +12,12 @@ tags:
   - training sertifikasi mtcna associate
   - training sertifikasi mtcna bandung
   - training sertifikasi mtcna bekasi
+  - training sertifikasi MTCNA 2024
+  - training sertifikasi MTCNA di indonesia
+  - training sertifikasi MTCNA sertifikat
+  - training sertifikasi MTCNA certificate
+  - training sertifikasi MTCNA surabaya
+  - training sertifikasi MTCNA mtcre
   - Sertifikasi MTCNA
   - Pelatihan Jaringan Tangerang
   - Areta Informatics College

@@ -14,6 +14,11 @@ tags:
   - MikroTik Certified Network Associate
   - MTCRE MTCWE MTCTE
   - sertifikasi MTCNA
+  - training mtcna
+  - training mtcna associate
+  - training mtcna bandung
+  - training mtcna exam
+  - training mtcna jakarta
 ---
 
 ![Training MTCNA](/img/MTCNA.jpg "Training MTCNA")

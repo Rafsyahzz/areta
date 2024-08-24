@@ -19,6 +19,10 @@ tags:
   - training sertifikasi mikrotik surabaya
   - training sertifikasi mtcna
   - training sertifikasi mtcna mikrotik
+  - training sertifikasi mikrotik mtcna
+  - training sertifikasi mikrotik 2024
+  - training sertifikasi mikrotik associate
+  - training sertifikasi mikrotik basic
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")

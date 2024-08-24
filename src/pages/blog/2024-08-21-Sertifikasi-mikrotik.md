@@ -11,6 +11,10 @@ tags:
   - sertifikasi mikrotik mtcna
   - sertifikasi mikrotik indonesia
   - sertifikasi mikrotik mtcna
+  - sertifikasi mikrotik
+  - sertifikasi mikrotik certificate
+  - sertifikasi mikrotik certified
+  - sertifikasi mikrotik certification
   - Areta Informatics College
   - Pelatihan Jaringan Komputer
   - Mikrotik Full Praktek
