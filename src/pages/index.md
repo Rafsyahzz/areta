@@ -1,37 +1,37 @@
 ---
 templateKey: index-page
-title: Areta Informatics College
+title: Kampus IT Areta Informatics College
 image: /img/home-jumbotron.jpg
 heading: Kurikulum berbasis Industri
 subheading: Kampus Full Praktek
 mainpitch:
-  title: Mengapa kuliah harus di Areta Informatics College?
+  title: Mengapa kuliah IT dan Bisnis Digitak harus di Areta Informatics College?
   description: Areta Informatics College menerapkan pendidikan dengan konsep
     belajar full praktek dengan kurikulum industri dan pengajar dari praktisi.
-description: Kurikulum yang dikembangkan sesuai dengan kebutuhan industri yang
+description: Kurikulum IT dan Bisnis Digital yang dikembangkan sesuai dengan kebutuhan industri yang
   dibuat oleh para praktisi dibidangnya. Sehingga keterampilan yang dimiliki
   oleh mahasiswa/i kami cepat diserap didunia industri.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: Mahasiswa/i kami pada awal semestar yakni semester 1 dan semester 2 wajib
+      text: Mahasiswa/i Areta Informatics College pada awal semestar yakni semester 1 dan semester 2 wajib
         untuk mengikuti kelas sertifikasi internasional. Sehingga diharapkan di
         tahun pertama saja mereka sudah dapat bekerja di bidang IT dan Bisnis
         Digital.
     - image: /img/bisnis-digital.png
-      text: Mahasiswa/i kami mendapatkan matakuliah enterpreneurship, leadership dan
+      text: Mahasiswa/i Areta Informatics college mendapatkan matakuliah enterpreneurship, leadership dan
         juga public speaking. Keterampilan ini menjadi pondasi dasar untuk
         mereka mampu bersaing di dunia industri dan bisnis, Baik sebagai tenaga
         profesional di bidang IT, Digital Marketing maupun sebagai seorang
         pengusaha atau owner bisnis.
     - image: /img/aic-yoga.png
       text: >
-        Mahasiswa/i kami diwajibkan untuk menjadi guru tamu di SMK-SMK,
+        Mahasiswa/i Areta Informatics College diwajibkan untuk menjadi guru tamu di SMK-SMK,
         bertujuan agar skill dan kompetensi yang sudah didapat dikelas seperti
         skill IT, Digital Marketing dan Public Speaking bisa terasah secara
         langsung dengan berbagi ke siswa/i SMK.
     - image: /img/aic-izmi.png
-      text: Mahasiswa/i kami disamping memiliki skill dan kompetensi untuk dapat
+      text: Mahasiswa/i Areta Informatics College disamping memiliki skill dan kompetensi untuk dapat
         bersaing di dunia kerja, juga memiliki skill dan kompetensi untuk
         menciptakan lapangan kerja dengan menjadi pengusaha.
   heading: What we offer
