@@ -7,7 +7,11 @@ featuredpost: false
 featuredimage: /img/areta-college-kampus-it.jpg
 tags:
   - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
+  - Kampus IT Tangerang Kabupaten
   - Kuliah IT Tangerang
+  - Kuliah IT Tangerang Selatan
+  - Kuliah IT Tangerang Kabupaten
   - Kuliah Jurusan Teknik Informatika
   - Jurusan Teknik Informatika
   - Areta Informatics College
