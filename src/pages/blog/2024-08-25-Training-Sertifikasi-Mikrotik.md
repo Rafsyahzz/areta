@@ -12,6 +12,12 @@ tags:
   - training sertifikasi mikrotik di indonesia
   - training sertifikasi mikrotik di bekasi
   - training sertifikasik mikrotik exam
+  - training sertifikasi mikrotik + exam
+  - training sertifikasi mikrotik di jakarta
+  - training sertifikasi mikrotik di bandung
+  - training sertifikasi mikrotik bootcamp
+  - training sertifikasi mikrotik bandung
+  
 ---
 
 ![Training Sertifikasi Mikrotik exam](/img/training-sertifikasi-mikrotik.jpg "Training Sertifikasi Mikrotik exam")
