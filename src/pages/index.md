@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Kurikulum berbasis Industri
 subheading: Kampus IT Full Praktek
 mainpitch:
-  title: Mengapa Kuliah IT dan Bisnis Digitak harus di Areta Informatics College?
+  title: Mengapa Kuliah IT dan Bisnis Digital harus di Areta Informatics College?
   description: Kebutuhan akan tenaga ahli di bidang Teknologi Informasi (IT) dan Bisnis Digital semakin tinggi. Bagi kamu yang ingin sukses dalam dunia Teknologi Informasi dan Bisnis Digital, memilih kampus yang tepat Areta Informatics College adalah langkah pertama yang sangat penting sebagai pilihan terbaik untuk mewujudkan impian karirmu di bidang IT dan Bisnis Digital. Kampus IT dan Bisnis Digital Areta Informatics College menerapkan pendidikan dengan konsep belajar full praktek dengan kurikulum industri dan pengajar dari praktisi.
 description: Kurikulum IT dan Bisnis Digital yang dikembangkan sesuai dengan kebutuhan industri yang
   dibuat oleh para praktisi dibidangnya. Sehingga keterampilan yang dimiliki
