@@ -26,22 +26,28 @@ tags:
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")
+
 <div class="justify-text">
 Dalam era digital yang semakin berkembang pesat, kebutuhan akan profesional di bidang jaringan komputer semakin tinggi. Salah satu sertifikasi yang paling dikenal di dunia jaringan adalah MikroTik Certified Network Associate (MTCNA). Sertifikasi ini menjadi batu loncatan penting bagi siapa pun yang ingin meniti karier di bidang jaringan. Dalam artikel ini, kita akan membahas secara mendalam tentang pentingnya sertifikasi MTCNA, manfaat mengikuti training di Tangerang, serta peluang karier yang terbuka lebar bagi para pemegang sertifikasi ini.
 </div>
 
 #### Apa Itu Sertifikasi MikroTik MTCNA?
+<div class="justify-text">
 MikroTik adalah perusahaan yang dikenal dengan produk router dan wireless ISP (Internet Service Provider) mereka. Sertifikasi MTCNA adalah sertifikasi dasar yang ditawarkan oleh MikroTik untuk para profesional jaringan. Sertifikasi ini mencakup berbagai aspek penting dalam manajemen dan konfigurasi jaringan menggunakan perangkat MikroTik.
+</div>
 
 #### Manfaat Sertifikasi MTCNA:
-
+<div class="justify-text">
 Pengakuan Global: Sertifikasi ini diakui secara internasional dan membuka peluang bagi karier global.
 Dasar Pengetahuan yang Kuat: Memahami konsep dasar dalam jaringan komputer.
 Keterampilan Praktis: MTCNA mengajarkan keterampilan langsung yang dibutuhkan untuk mengelola dan mengkonfigurasi jaringan.
 Meningkatkan Nilai di Pasar Kerja: Sertifikasi ini menjadi nilai tambah yang signifikan di mata perusahaan.
+</div>
 
 #### Mengapa Memilih Training MTCNA di Tangerang?
+<div class="justify-text">
 Tangerang, sebagai salah satu pusat industri dan teknologi di Indonesia, menawarkan banyak keunggulan bagi para profesional yang ingin mengikuti training MTCNA.
+</div>
 
 #### Alasan Memilih Areta Informatics College Tangerang:
 
@@ -49,8 +55,9 @@ Tangerang, sebagai salah satu pusat industri dan teknologi di Indonesia, menawar
 2. **Instruktur Berpengalaman:** Instruktur yang berpengalaman dan bersertifikasi internasional akan membimbing Anda selama training.
 
 #### Materi Training MTCNA
+<div class="justify-text">
 Training MTCNA mencakup berbagai topik yang dirancang untuk memberikan pemahaman menyeluruh tentang penggunaan perangkat MikroTik dalam jaringan. Berikut adalah beberapa topik yang akan dibahas dalam training:
-
+</div>
 **1. Pengenalan MikroTik RouterOS**
 **2. Sejarah dan evolusi MikroTik.**
 **3. Dasar-dasar RouterOS dan RouterBoard.**
@@ -74,6 +81,7 @@ Training MTCNA mencakup berbagai topik yang dirancang untuk memberikan pemahaman
 **21. Mengatur VPN untuk koneksi yang aman.**
 
 #### Langkah-Langkah Mendapatkan Sertifikasi MTCNA
+<div class="justify-text">
 Untuk mendapatkan sertifikasi MTCNA, peserta harus mengikuti serangkaian langkah yang melibatkan pelatihan dan ujian. Berikut langkah-langkahnya:
 
 A. **Mendaftar untuk Training:**
@@ -89,16 +97,18 @@ Setelah pelatihan, peserta akan mengikuti ujian sertifikasi.
 Ujian ini biasanya dilakukan secara online dan menguji pemahaman tentang materi yang diajarkan.
 4. **Menerima Sertifikat:**
 Jika lulus ujian, Anda akan menerima sertifikat resmi dari MikroTik yang menunjukkan bahwa Anda adalah seorang MTCNA.
-
+</div>
 #### Peluang Karier dengan Sertifikasi MTCNA
+<div class="justify-text">
 Setelah mendapatkan sertifikasi MTCNA, berbagai peluang karier terbuka lebar bagi Anda. Beberapa posisi yang bisa Anda lamar antara lain:
 
 1. **Network Engineer:** Mengelola dan mengoptimalkan jaringan perusahaan.
 2. **System Administrator:** Bertanggung jawab atas pengaturan dan pemeliharaan infrastruktur IT.
 3. **IT Consultant:** Memberikan saran profesional kepada perusahaan tentang solusi jaringan.
 4. **Network Security Specialist:** Menangani keamanan jaringan dan mencegah serangan cyber.
-
+</div>
 #### Tips Sukses Mengikuti Training MTCNA
+<div class="justify-text">
 Untuk memaksimalkan hasil dari training MTCNA, ada beberapa tips yang bisa Anda ikuti:
 
 1. **Persiapkan Diri Sebelum Training:**
@@ -112,5 +122,5 @@ Setelah training, gunakan waktu untuk latihan mandiri.
 Manfaatkan lab atau simulator jaringan untuk praktik lebih lanjut.
 8. **Ikut Komunitas:**
 Bergabung dengan komunitas IT lokal untuk berbagi pengetahuan dan pengalaman.
-
+</div>
 #### untuk pendaftaran dan jadwal training bisa hub https://wa.me/6285219507377
