@@ -51,27 +51,27 @@ Tangerang, sebagai salah satu pusat industri dan teknologi di Indonesia, menawar
 #### Materi Training MTCNA
 Training MTCNA mencakup berbagai topik yang dirancang untuk memberikan pemahaman menyeluruh tentang penggunaan perangkat MikroTik dalam jaringan. Berikut adalah beberapa topik yang akan dibahas dalam training:
 
-1. **Pengenalan MikroTik RouterOS**
-2. **Sejarah dan evolusi MikroTik.**
-3. **Dasar-dasar RouterOS dan RouterBoard.**
-4. **Konfigurasi Dasar Router**
-5. **Konfigurasi IP Address, Gateway, dan DNS.**
-6. **Mengelola pengguna dan hak akses.**
-7. **Firewall dan Keamanan Jaringan**
-8. **Pengenalan firewall dan filtering.**
-9. **Mengatur rule firewall untuk keamanan jaringan.**
-10. **Routing**
-11. **Pengaturan routing dasar.**
-12. **Dinamis vs. statis routing.**
-13. **Wireless Networking**
-14. **Konfigurasi jaringan nirkabel menggunakan MikroTik.**
-15. **Implementasi dan optimasi jaringan wireless.**
-16. **QoS (Quality of Service)**
-17. **Manajemen bandwidth.**
-18. **Implementasi queue tree dan simple queue.**
-19. **Tunneling dan VPN**
-20. **Pengenalan ke berbagai jenis tunneling.**
-21. **Mengatur VPN untuk koneksi yang aman.**
+**1. Pengenalan MikroTik RouterOS**
+**2. Sejarah dan evolusi MikroTik.**
+**3. Dasar-dasar RouterOS dan RouterBoard.**
+**4. Konfigurasi Dasar Router**
+**5. Konfigurasi IP Address, Gateway, dan DNS.**
+**6. Mengelola pengguna dan hak akses.**
+**7. Firewall dan Keamanan Jaringan**
+**8. Pengenalan firewall dan filtering.**
+**9. Mengatur rule firewall untuk keamanan jaringan.**
+**10. Routing**
+**11. Pengaturan routing dasar.**
+**12. Dinamis vs. statis routing.**
+**13. Wireless Networking**
+**14. Konfigurasi jaringan nirkabel menggunakan MikroTik.**
+**15. Implementasi dan optimasi jaringan wireless.**
+**16. QoS (Quality of Service)**
+**17. Manajemen bandwidth.**
+**18. Implementasi queue tree dan simple queue.**
+**19. Tunneling dan VPN**
+**20. Pengenalan ke berbagai jenis tunneling.**
+**21. Mengatur VPN untuk koneksi yang aman.**
 
 #### Langkah-Langkah Mendapatkan Sertifikasi MTCNA
 Untuk mendapatkan sertifikasi MTCNA, peserta harus mengikuti serangkaian langkah yang melibatkan pelatihan dan ujian. Berikut langkah-langkahnya:
