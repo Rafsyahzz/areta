@@ -26,7 +26,9 @@ tags:
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")
+<div class="justify-text">
 Dalam era digital yang semakin berkembang pesat, kebutuhan akan profesional di bidang jaringan komputer semakin tinggi. Salah satu sertifikasi yang paling dikenal di dunia jaringan adalah MikroTik Certified Network Associate (MTCNA). Sertifikasi ini menjadi batu loncatan penting bagi siapa pun yang ingin meniti karier di bidang jaringan. Dalam artikel ini, kita akan membahas secara mendalam tentang pentingnya sertifikasi MTCNA, manfaat mengikuti training di Tangerang, serta peluang karier yang terbuka lebar bagi para pemegang sertifikasi ini.
+</div>
 
 #### Apa Itu Sertifikasi MikroTik MTCNA?
 MikroTik adalah perusahaan yang dikenal dengan produk router dan wireless ISP (Internet Service Provider) mereka. Sertifikasi MTCNA adalah sertifikasi dasar yang ditawarkan oleh MikroTik untuk para profesional jaringan. Sertifikasi ini mencakup berbagai aspek penting dalam manajemen dan konfigurasi jaringan menggunakan perangkat MikroTik.
