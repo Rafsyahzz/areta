@@ -78,7 +78,7 @@ module.exports = {
       "MikroTik Tangerang", 
       "MTCNA", 
       "MTCRE MTCWE MTCTE"
-    ]  
+    ],  
   },
   plugins: [
     "gatsby-plugin-react-helmet",
