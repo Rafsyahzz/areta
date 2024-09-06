@@ -65,7 +65,7 @@ module.exports = {
       "sertifikasi mikrotik certified", 
       "sertifikasi mikrotik certification", 
       "Sertifikasi IT", 
-      "sertifikasi MTCNA, 
+      "sertifikasi MTCNA", 
       "sertifikasi jaringan", 
       "Sertifikasi Mikrotik 2024", 
       "Basic Mikrotik Training", 
@@ -77,7 +77,7 @@ module.exports = {
       "Mikrotik Full Praktek", 
       "MikroTik Tangerang", 
       "MTCNA", 
-      "MTCRE MTCWE MTCTE",
+      "MTCRE MTCWE MTCTE"
     ],  
   },
   plugins: [
