@@ -77,7 +77,7 @@ module.exports = {
       "Mikrotik Full Praktek", 
       "MikroTik Tangerang", 
       "MTCNA", 
-      "MTCRE MTCWE MTCTE"
+      "MTCRE MTCWE MTCTE",
     ],  
   },
   plugins: [
