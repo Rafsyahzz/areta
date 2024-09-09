@@ -12,9 +12,13 @@ description: >
 featuredpost: false
 featuredimage: /img/implementasi-erp-areta-college.jpg
 tags:
-  - bisnis digital
-  - digital marketing
-  - full praktek
+  - Kampus IT Tangerang Selatan
+  - Kampus IT Tangerang Kabupaten
+  - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
+  - kampus bisnis digital
+  - kuliah digital marketing
+  - Kampus full praktek
 ---
 ## Hampir semua mahasiswa yang belajar di kami Alhamdulillah 95% sudah bekerja 3% dari mereka memiliki bisnis sendiri atau menjadi pengusaha sisanya menjadi freelancer di bidang IT.
 
