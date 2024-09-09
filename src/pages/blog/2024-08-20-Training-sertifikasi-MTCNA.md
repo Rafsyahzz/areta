@@ -6,7 +6,6 @@ description: Training Sertifikasi MTCNA di Areta Informatics College Tangerang, 
 featuredpost: false
 featuredimage: /img/Training-IT.jpg
 tags:
-  - Training Sertifikasi MikroTik
   - training sertifikasi MTCNA
   - training sertifikasi mtcna mikrotik
   - training sertifikasi mtcna associate
@@ -18,12 +17,12 @@ tags:
   - training sertifikasi MTCNA certificate
   - training sertifikasi MTCNA surabaya
   - training sertifikasi MTCNA mtcre
+  - training sertifikasi MTCNA di indonesia
   - Sertifikasi MTCNA
   - Pelatihan Jaringan Tangerang
   - Areta Informatics College
   - Pelatihan IT 2024
   - MTCNA
-  - Training Sertifikasi MTCNA
   - basic mikrotik training
 ---
 

@@ -15,13 +15,15 @@ tags:
   - sertifikasi mikrotik certificate
   - sertifikasi mikrotik certified
   - sertifikasi mikrotik certification
+  - Sertifikasi IT 
+  - sertifikasi MTCNA 
+  - sertifikasi jaringan 
+  - Sertifikasi Mikrotik 2024     
   - Areta Informatics College
   - Pelatihan Jaringan Komputer
   - Mikrotik Full Praktek
-  - Sertifikasi IT
   - training mikrotik
-  - sertifikasi MTCNA
-  - sertifikasi jaringan
+  
 ---
 
 ![Sertifikasi Mikrotik](/img/sertifikasi-mikrotik.jpg "Sertifikasi Mikrotik")

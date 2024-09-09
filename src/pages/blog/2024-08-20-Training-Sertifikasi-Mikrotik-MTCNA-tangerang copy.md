@@ -6,13 +6,6 @@ description: Training Sertifikasi MikroTik MTCNA di Tangerang, Jadi Ahli Jaringa
 featuredpost: false
 featuredimage: /img/training-mikrotik-mtcna.jpg
 tags:
-  - Sertifikasi MikroTik
-  - Training MTCNA
-  - Ahli Jaringan
-  - MikroTik Tangerang
-  - Pelatihan IT
-  - training mikrotik jakarta
-  - mtcna sertifikat
   - training sertifikasi mikrotik
   - training sertifikasi mikrotik tangerang
   - training sertifikasi mikrotik bandung
@@ -23,6 +16,16 @@ tags:
   - training sertifikasi mikrotik 2024
   - training sertifikasi mikrotik associate
   - training sertifikasi mikrotik basic
+  - training sertifikasi mikrotik di makasar
+  - training sertifikasi mikrotik di tangerang
+  - training sertifikasi mikrotik di indonesia
+  - training sertifikasi mikrotik di bekasi
+  - training sertifikasi mikrotik exam
+  - training sertifikasi mikrotik + exam 
+  - training sertifikasi mikrotik di jakarta
+  - training sertifikasi mikrotik di bandung
+  - training sertifikasi mikrotik bootcamp
+        
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")

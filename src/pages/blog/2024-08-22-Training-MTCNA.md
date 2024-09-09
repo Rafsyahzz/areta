@@ -24,6 +24,8 @@ tags:
   - training mtcna bekasi
   - training mtcna indonesia
   - training mtcna tangerang selatan
+  - Training MTCNA 
+      
 ---
 
 ![Training MTCNA](/img/MTCNA.jpg "Training MTCNA")
