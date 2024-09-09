@@ -9,7 +9,7 @@ module.exports = {
       "Kampus IT Tangerang Selatan",
       "Kampus IT Tangerang Kabupaten",
       "Kampus IT Terdekat",
-      "Kampus IT Terdekat dari lokasi saya" 
+      "Kampus IT Terdekat dari lokasi saya", 
       "kampus full praktek", 
       "kampus bisnis digital", 
       "Kampus digital marketing", 
