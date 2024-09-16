@@ -10,6 +10,10 @@ featuredpost: false
 featuredimage: /img/foto-joshua.jpg
 tags:
   - UMKM
+  - kampus bisnis digital
+  - Kampus digital marketing
+  - Kuliah IT Tangerang
+  - Kuliah Jurusan Teknik Informatika
 ---
 ![Kampus Full Praktik](/img/foto-joshua.jpg "Kampus Full Praktik")
 P﻿erlunya mahasiswa/i memiliki skill IT dan Digital Marketing di era digital saat ini. Tidak dapat dipungkiri era sekarang adalah era dimana UMKM dapat naik kelas dengan menggunakan teknologi.
