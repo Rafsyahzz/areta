@@ -10,7 +10,12 @@ featuredimage: /img/areta-publicspeacking.jpg
 tags:
   - kampusfullpraktek
   - AretaInformaticsCollege
----
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
+  - Kampus IT Tangerang Kabupaten
+  - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
+  ---
 ![Kampus Full Praktik](/img/areta-publicspeacking.jpg "Kampus Full Praktik")
 
 P﻿erkembangan teknologi yang begitu cepat menuntut bisnis dan dunia industri untuk mengikuti perkembangan jaman, namun tidak demikian dengan dunia akademis, terkadang sangat tertinggal dan tidak up to date dalam model pembelajaran bahkan kurikulum yang digunakan.
