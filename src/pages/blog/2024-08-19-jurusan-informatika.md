@@ -11,8 +11,8 @@ tags:
   - Kuliah Jurusan Teknik Informatika
   - Jurusan Teknik Informatika
   - Areta Informatics College
----
-
+  ---
+  
 #### Pengantar
 
 ![jurusan Informatika](/img/aic-ayu-semangat.png "Jurusan Informatika")
