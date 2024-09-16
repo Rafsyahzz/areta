@@ -10,9 +10,13 @@ tags:
   - Kuliah IT Tangerang
   - Kuliah Jurusan Teknik Informatika
   - Jurusan Teknik Informatika
+  - Jurusan Teknik Informatika Tangerang
+  - Jurusan Teknik Informatika terdekat
+  - JurusanTteknik Informatika di tangerang
+  - Jurusan Teknik Informatika di dekat saya
   - Areta Informatics College
   ---
-  
+
 #### Pengantar
 
 ![jurusan Informatika](/img/aic-ayu-semangat.png "Jurusan Informatika")
