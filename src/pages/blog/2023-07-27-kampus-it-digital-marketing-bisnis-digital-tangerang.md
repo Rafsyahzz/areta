@@ -16,6 +16,7 @@ tags:
   - Kampus IT Tangerang Kabupaten
   - Kampus IT Terdekat
   - Kampus IT Terdekat dari lokasi saya
+  - Kampus IT Full Praktek
   - kampus bisnis digital
   - kuliah digital marketing
   - Kampus full praktek
