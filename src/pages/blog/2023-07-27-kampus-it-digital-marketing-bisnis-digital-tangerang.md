@@ -19,6 +19,7 @@ tags:
   - Kampus IT Full Praktek
   - kampus bisnis digital
   - kuliah digital marketing
+  - Kuliah IT Full Praktek
   - Kampus full praktek
 ---
 ## Hampir semua mahasiswa yang belajar di kami Alhamdulillah 95% sudah bekerja 3% dari mereka memiliki bisnis sendiri atau menjadi pengusaha sisanya menjadi freelancer di bidang IT.

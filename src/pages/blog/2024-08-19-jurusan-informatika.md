@@ -8,6 +8,7 @@ featuredimage: /img/aic-ayu-semangat.png
 tags:
   - Kampus IT Tangerang
   - Kuliah IT Tangerang
+  - Kuliah IT Full Praktek
   - Kuliah Jurusan Teknik Informatika
   - Jurusan Teknik Informatika
   - Jurusan Teknik Informatika Tangerang

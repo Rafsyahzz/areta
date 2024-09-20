@@ -12,6 +12,7 @@ tags:
   - Kuliah IT Tangerang
   - Kuliah IT Tangerang Selatan
   - Kuliah IT Tangerang Kabupaten
+  - Kuliah IT Full Praktek
   - Kuliah Jurusan Teknik Informatika
   - Jurusan Teknik Informatika
   - Areta Informatics College

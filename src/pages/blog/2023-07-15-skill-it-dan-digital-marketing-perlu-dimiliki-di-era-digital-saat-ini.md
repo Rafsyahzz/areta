@@ -13,6 +13,7 @@ tags:
   - kampus bisnis digital
   - Kampus digital marketing
   - Kuliah IT Tangerang
+  - Kuliah IT Full Praktek
   - Kuliah Jurusan Teknik Informatika
 ---
 ![Kampus Full Praktik](/img/foto-joshua.jpg "Kampus Full Praktik")
