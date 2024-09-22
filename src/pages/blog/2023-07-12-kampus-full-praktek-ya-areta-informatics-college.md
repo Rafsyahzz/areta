@@ -16,6 +16,7 @@ tags:
   - Kampus IT Terdekat
   - Kampus IT Terdekat dari lokasi saya
   - Kampus IT Full Praktek
+  - Kampus IT di Indonesia
   ---
 ![Kampus Full Praktik](/img/areta-publicspeacking.jpg "Kampus Full Praktik")
 
