@@ -23,6 +23,8 @@ tags:
   - Pelatihan Jaringan Komputer
   - Mikrotik Full Praktek
   - training mikrotik
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
   
 ---
 

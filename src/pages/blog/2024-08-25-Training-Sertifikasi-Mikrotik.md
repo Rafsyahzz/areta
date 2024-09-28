@@ -17,6 +17,8 @@ tags:
   - training sertifikasi mikrotik di bandung
   - training sertifikasi mikrotik bootcamp
   - training sertifikasi mikrotik bandung
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
   
 ---
 

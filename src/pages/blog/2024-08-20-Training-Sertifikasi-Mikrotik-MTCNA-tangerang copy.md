@@ -25,6 +25,8 @@ tags:
   - training sertifikasi mikrotik di jakarta
   - training sertifikasi mikrotik di bandung
   - training sertifikasi mikrotik bootcamp
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
         
 ---
 

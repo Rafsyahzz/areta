@@ -24,6 +24,8 @@ tags:
   - Pelatihan IT 2024
   - MTCNA
   - basic mikrotik training
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
 ---
 
 ![Training IT](/img/Training-IT.jpg "Training IT")

@@ -14,6 +14,7 @@ featuredimage: /img/implementasi-erp-areta-college.jpg
 tags:
   - Kampus IT Tangerang Selatan
   - Kampus IT Tangerang Kabupaten
+  - Kampus IT Tangerang
   - Kampus IT Terdekat
   - Kampus IT Terdekat dari lokasi saya
   - Kampus IT Full Praktek

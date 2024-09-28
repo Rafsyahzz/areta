@@ -25,6 +25,8 @@ tags:
   - training mtcna indonesia
   - training mtcna tangerang selatan
   - Training MTCNA 
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
       
 ---
 
