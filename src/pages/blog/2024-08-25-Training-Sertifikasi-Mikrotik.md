@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Training Sertifikasi MikroTik Tangerang, Indonesia
 date: 2024-08-19
-description: Panduan Lengkap Mengikuti Training Sertifikasi Mikrotik untuk Pemula
+description: Panduan Lengkap Mengikuti Training Sertifikasi Mikrotik untuk Pemula di Tangerang
 featuredpost: false
 featuredimage: /img/training-sertifikasi-mikrotik.jpg
 tags:
@@ -26,7 +26,7 @@ tags:
 ---
 
 ![Training Sertifikasi Mikrotik exam](/img/training-sertifikasi-mikrotik.jpg "Training Sertifikasi Mikrotik exam")
-Ingin Memiliki keterampilan jaringan dengan sertifikasi Mikrotik? Jika ya, ikuti panduan lengkap tentang cara mengikuti training sertifikasi Mikrotik, terutama bagi pemula yang ingin memulai perjalanan mereka di dunia jaringan. Selain itu, Anda juga akan mendapatkan informasi penting mengenai training yang akan diselenggarakan di Areta Informatics College pada tanggal 26-27 Oktober 2024.
+Ingin Memiliki keterampilan jaringan dengan sertifikasi Mikrotik? Jika ya, ikuti panduan lengkap tentang cara mengikuti training sertifikasi Mikrotik, terutama bagi pemula yang ingin memulai perjalanan mereka di dunia jaringan. Selain itu, Anda juga akan mendapatkan informasi penting mengenai training yang akan diselenggarakan di Areta Informatics College Tangerang pada tanggal 26-27 Oktober 2024.
 
 #### Apa Itu Sertifikasi MikroTik?
 Sertifikasi Mikrotik adalah salah satu sertifikasi yang diakui secara global di bidang jaringan. Mikrotik adalah perusahaan Latvia yang mengembangkan perangkat keras dan perangkat lunak untuk jaringan internet. Sertifikasi ini mencakup berbagai level, mulai dari dasar hingga lanjutan, yang dirancang untuk menguji pengetahuan dan keterampilan Anda dalam menggunakan produk-produk Mikrotik.

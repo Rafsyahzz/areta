@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Training Sertifikasi MikroTik MTCNA di Tangerang
+title: Training Sertifikasi MikroTik MTCNA di Tangerang, Indonesia
 date: 2024-08-19
 description: Training Sertifikasi MikroTik MTCNA di Tangerang Indonesia, Jadi Ahli Jaringan Bersertifikasi Global!
 featuredpost: false
