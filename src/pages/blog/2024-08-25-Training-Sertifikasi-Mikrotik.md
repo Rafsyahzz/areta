@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Training Sertifikasi MikroTik
+title: Training Sertifikasi MikroTik Tangerang, Indonesia
 date: 2024-08-19
 description: Panduan Lengkap Mengikuti Training Sertifikasi Mikrotik untuk Pemula
 featuredpost: false

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Skill IT dan Digital Marketing Perlu dimiliki di era Digital Saat ini
+title: Skill IT dan Digital Marketing Perlu dimiliki oleh Kampus IT dan Bisnis Digital di era Digital Saat ini
 date: 2023-07-15T02:43:45.125Z
 description: Kecepatan perkembangan teknologi informasi saat ini, memberikan
   angin segar bagi pelaku usaha UMKM khususnya di Indonesia. Terjadinya pandemi
