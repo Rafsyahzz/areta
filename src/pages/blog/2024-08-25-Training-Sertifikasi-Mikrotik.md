@@ -19,6 +19,9 @@ tags:
   - training sertifikasi mikrotik bandung
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
+  - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
+  - Kuliah IT Tangerang
   
 ---
 
