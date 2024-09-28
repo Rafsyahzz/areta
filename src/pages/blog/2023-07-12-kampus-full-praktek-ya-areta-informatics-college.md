@@ -10,6 +10,7 @@ featuredimage: /img/areta-publicspeacking.jpg
 tags:
   - kampusfullpraktek
   - AretaInformaticsCollege
+  - kampus di tangerang
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
   - Kampus IT Tangerang Kabupaten

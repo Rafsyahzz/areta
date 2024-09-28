@@ -19,6 +19,7 @@ tags:
   - Kampus IT Terdekat dari lokasi saya
   - Kampus IT Full Praktek
   - Kampus IT di Indonesia
+  - kampus di tangerang
   - kampus bisnis digital
   - kuliah digital marketing
   - Kuliah IT Full Praktek

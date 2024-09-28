@@ -12,6 +12,7 @@ tags:
   - Kampus IT Terdekat
   - Kampus IT Terdekat dari lokasi saya
   - Kampus IT di Indonesia
+  - kampus di tangerang
   - Kuliah IT Tangerang
   - Kuliah IT Tangerang Selatan
   - Kuliah IT Tangerang Kabupaten

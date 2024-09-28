@@ -15,6 +15,7 @@ tags:
   - Kuliah IT Tangerang
   - Kuliah IT Full Praktek
   - Kuliah Jurusan Teknik Informatika
+  - kampus di tangerang
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
   - Kampus IT Terdekat
