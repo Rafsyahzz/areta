@@ -26,6 +26,7 @@ tags:
   - basic mikrotik training
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
+  - Kampus IT Terdekat
 ---
 
 ![Training IT](/img/Training-IT.jpg "Training IT")

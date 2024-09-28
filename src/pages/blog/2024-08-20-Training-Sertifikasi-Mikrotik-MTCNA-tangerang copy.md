@@ -27,7 +27,8 @@ tags:
   - training sertifikasi mikrotik bootcamp
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
-        
+  - Kampus IT Terdekat
+    
 ---
 
 ![Training Sertifikasi Mikrotik](/img/training-mikrotik-mtcna.jpg "Training Sertifikasi Mikrotik")

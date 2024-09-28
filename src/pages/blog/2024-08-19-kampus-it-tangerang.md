@@ -9,6 +9,7 @@ tags:
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
   - Kampus IT Tangerang Kabupaten
+  - Kampus IT Terdekat
   - Kampus IT di Indonesia
   - Kuliah IT Tangerang
   - Kuliah IT Tangerang Selatan
