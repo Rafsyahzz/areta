@@ -27,6 +27,7 @@ tags:
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
   - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
 ---
 
 ![Training IT](/img/Training-IT.jpg "Training IT")

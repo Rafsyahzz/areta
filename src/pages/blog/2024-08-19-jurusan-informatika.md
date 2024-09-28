@@ -9,6 +9,7 @@ tags:
   - Kampus IT Tangerang
   - Kampus IT Tangerang Selatan
   - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
   - Kuliah IT Tangerang
   - Kuliah IT Full Praktek
   - Kuliah Jurusan Teknik Informatika
