@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kuliah IT di Kampus Full Praktek Areta Informatics College, Tangerang  Jurusan Teknik Informatika Terbaik
+title: Kuliah IT di Kampus Full Praktek Areta Informatics College, Tangerang - Jurusan Teknik Informatika Terbaik
 date: 2024-08-19
 description: Kampus IT di Tangerang yang menawarkan kuliah IT full praktek di jurusan Teknik Informatika. Sertifikasi MikroTik, Pelatihan Jaringan, dan Training MTCNA tersedia di Areta Informatics College.
 featuredpost: false
@@ -69,5 +69,5 @@ Dengan permintaan yang tinggi akan profesional IT di seluruh dunia, lulusan dari
 
 Jadi, jika Anda mencari **kampus IT Tangerang** yang dapat memberikan Anda keunggulan kompetitif di dunia kerja, Areta Informatics College adalah tempat yang tepat untuk memulai perjalanan akademis Anda.
 
-### informasi pendaftaran bisa hub wa.me//085219507377
-
+### Informasi Pendaftaran 
+Untuk informasi lebih lanjut mengenai pendaftaran, silakan hubungi kami melalui WhatsApp: wa.me//085219507377
