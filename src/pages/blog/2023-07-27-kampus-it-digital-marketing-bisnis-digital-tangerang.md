@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kampus IT Digital Marketing Bisnis Digital Tangerang, Indonesia, Pelopor Belajar Full
+title: Kampus IT Digital Marketing Bisnis Digital Tangerang Indonesia Pelopor Belajar Full
   Praktek
 date: 2023-07-27T09:45:40.258Z
 description: >

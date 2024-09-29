@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Kampus IT dan Bisnis Digital Full Praktek ya Areta Informatics College, Tangerang, Indonesia
+title: Kampus IT dan Bisnis Digital Full Praktek ya Areta Informatics College Tangerang Indonesia
 date: 2023-07-12T07:56:51.683Z
-description: Mengapa Kampus IT dan Bisnis Digital Tangerang, Indonesia, Areta Informatics College mengusung model pembelajaran full praktek? karena tujuan untuk mendidik mahasiswa/i siap kerja sebelum mereka
+description: Mengapa Kampus IT dan Bisnis Digital Tangerang Indonesia Areta Informatics College mengusung model pembelajaran full praktek? karena tujuan untuk mendidik mahasiswa/i siap kerja sebelum mereka
   lulus kuliah. Dengan metode pembalajaran 90% praktek dengan 10% teori
   menjadikan mahasiswa/i kami bisa bekerja dan punya bisnis dengan cepat.
 featuredpost: false
