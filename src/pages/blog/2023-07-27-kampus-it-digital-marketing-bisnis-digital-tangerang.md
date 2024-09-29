@@ -8,19 +8,16 @@ description: >
 featuredpost: false
 featuredimage: /img/implementasi-erp-areta-college.jpg
 tags:
-  - Kampus IT Tangerang Selatan
-  - Kampus IT Tangerang Kabupaten
   - Kampus IT Tangerang
-  - Kampus IT Terdekat
-  - Kampus IT Terdekat dari lokasi saya
-  - Kampus IT Full Praktek
-  - Kampus IT di Indonesia
-  - kampus di tangerang
-  - kampus bisnis digital
-  - kuliah digital marketing
-  - Kuliah IT Full Praktek
-  - Kuliah IT Tangerang
   - Kampus full praktek
+  - Kampus IT Full Praktek
+  - kampus bisnis digital
+  - Kuliah IT Tangerang
+  - Pelatihan Jaringan Tangerang
+  - Sertifikasi MikroTik
+  - Training MTCNA Tangerang
+  - Jurusan Teknik Informatika Tangerang
+  - Kampus IT Indonesia
 ---
 
 ## Kampus IT dan Bisnis Digital Full Praktek di Tangerang
