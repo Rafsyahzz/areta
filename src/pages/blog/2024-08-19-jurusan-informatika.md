@@ -15,7 +15,7 @@ tags:
   - Sertifikasi MikroTik
   - Training MTCNA Tangerang
   - Jurusan Teknik Informatika Tangerang
-  ---
+---
 
 ## Mengapa Memilih Kuliah IT di Kampus Full Praktek Areta Informatics College Tangerang?
 

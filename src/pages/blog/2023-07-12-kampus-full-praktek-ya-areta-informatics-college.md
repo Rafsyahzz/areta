@@ -19,7 +19,7 @@ tags:
   - Jurusan Teknik Informatika Tangerang
   - Kampus di Tangerang
   - Kampus IT Indonesia
-  ---
+---
 
 ![Kampus Full Praktik](/img/areta-publicspeacking.jpg "Kampus Full Praktik")
 

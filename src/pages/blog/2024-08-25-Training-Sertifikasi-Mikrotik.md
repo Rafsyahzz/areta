@@ -22,7 +22,6 @@ tags:
   - Kampus IT Terdekat
   - Kampus IT Terdekat dari lokasi saya
   - Kuliah IT Tangerang
-  
 ---
 
 ![Training Sertifikasi Mikrotik exam](/img/training-sertifikasi-mikrotik.jpg "Training Sertifikasi Mikrotik exam")
