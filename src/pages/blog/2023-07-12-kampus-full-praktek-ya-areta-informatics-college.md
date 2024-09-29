@@ -8,17 +8,17 @@ description: Mengapa Kampus IT dan Bisnis Digital Tangerang Indonesia Areta Info
 featuredpost: false
 featuredimage: /img/areta-publicspeacking.jpg
 tags:
-  - kampusfullpraktek
-  - AretaInformaticsCollege
-  - kampus di tangerang
   - Kampus IT Tangerang
-  - Kampus IT Tangerang Selatan
-  - Kampus IT Tangerang Kabupaten
-  - Kampus IT Terdekat
-  - Kampus IT Terdekat dari lokasi saya
+  - Kampus full praktek
   - Kampus IT Full Praktek
-  - Kampus IT di Indonesia
+  - kampus bisnis digital
   - Kuliah IT Tangerang
+  - Pelatihan Jaringan Tangerang
+  - Sertifikasi MikroTik
+  - Training MTCNA Tangerang
+  - Jurusan Teknik Informatika Tangerang
+  - Kampus di Tangerang
+  - Kampus IT Indonesia
   ---
 ![Kampus Full Praktik](/img/areta-publicspeacking.jpg "Kampus Full Praktik")
 
