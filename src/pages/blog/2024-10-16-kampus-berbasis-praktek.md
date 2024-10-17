@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kampus Berbasis Praktek, Lebih dari Sekadar Teori, Langsung Aksi hanya di Areta Informatics College Tangerang Indonesia
-date: 2023-07-12T07:56:51.683Z
+date: 2024-10-16
 description: Kampus Areta Informatics College Menyatukan Teori dan Praktik untuk Menghasilkan Tenaga Kerja Siap terjun ke Dunia Industri
 featuredpost: false
 featuredimage: /img/kampus-berbasis-praktek.jpg
