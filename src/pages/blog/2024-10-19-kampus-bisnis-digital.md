@@ -20,7 +20,7 @@ tags:
 
 ![Kampus Full Praktik](/img/kampus-bisnis-digital.jpg "Kampus Full Praktik")
 
-Di era digital yang terus berkembang, kebutuhan akan pemimpin bisnis yang mampu memanfaatkan teknologi terkini semakin mendesak											
+Di era digital yang terus berkembang, kebutuhan akan pemimpin bisnis yang mampu memanfaatkan teknologi terkini semakin mendesak.											
 											
 Areta Informatics College berkomitmen untuk menjawab tantangan ini dengan menyediakan pendidikan yang tidak hanya fokus pada teori, tetapi juga pada aplikasi praktis teknologi dalam dunia bisnis.											
 											
