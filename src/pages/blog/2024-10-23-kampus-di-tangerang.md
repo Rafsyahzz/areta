@@ -20,7 +20,7 @@ tags:
 
 ![Kampus Full Praktik](/img/kampus-di-tangerang.jpg "Kampus Full Praktik")
 
-Areta Informatics College Tangerang telah membuktikan diri sebagai salah satu kampus IT terkemuka yang berfokus pada pendidikan inovatif dan berkualitas.																	
+Areta Informatics College Tangerang telah menjadi salah satu pilihan utama bagi calon mahasiswa yang ingin mendalami bidang teknologi informasi (IT) di wilayah Tangerang. Sebagai kampus yang memiliki fokus kuat pada pendidikan inovatif dan berkualitas, Areta Informatics College terus membuktikan diri sebagai institusi yang mampu menghasilkan lulusan-lulusan kompeten di dunia kerja teknologi yang terus berkembang.																
 																	
 Dengan pendekatan yang menggabungkan teori dan praktik, kampus ini menawarkan pengalaman belajar yang dirancang untuk menyiapkan mahasiswa agar siap terjun ke dunia kerja. Dalam era digital yang terus berkembang pesat, kebutuhan akan tenaga ahli di bidang teknologi informasi sangatlah tinggi.																	
 																	
