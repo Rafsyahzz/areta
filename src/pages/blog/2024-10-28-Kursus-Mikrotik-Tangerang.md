@@ -4,7 +4,7 @@ title: Ingin Menjadi Ahli Jaringan? Ikuti Kursus Mikrotik di Areta Training Cent
 date: 2024-10-28
 description: Kursus Mikrotik dirancang untuk membantu Anda menjadi ahli jaringan dalam waktu singkat.
 featuredpost: false
-featuredimage: /img/Mikrotik.jpg
+featuredimage: /img/Mikrotik.jpeg
 tags:
   - kampus digital
   - sertifikasi mikrotik
