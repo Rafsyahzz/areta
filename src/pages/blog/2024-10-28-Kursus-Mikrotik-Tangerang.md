@@ -15,9 +15,10 @@ tags:
   - kuliah it tangerang
   - dasar mikrotik
   - networking with mikrotik
+  - mikrotik tutorial
 ---
 
-![Kampus Full Praktik](/img/areta-college-kampus-it.jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/Mikrotik.jpeg "Kampus Full Praktik")
 
 Mengawali semester pertama di **Kampus Areta** membawa mahasiswa langsung terjun ke dalam dunia **basic networking** dengan perangkat **MikroTik**. Bagi calon praktisi IT, terutama yang ingin mendalami jaringan komputer, mata kuliah ini memberikan pengalaman belajar yang benar-benar berbeda. Dengan metode **full praktek** dan dukungan langsung dari dosen yang berpengalaman sebagai praktisi di bidang networking, mahasiswa akan langsung mempelajari konsep jaringan dasar sambil menggunakan perangkat nyata.
 
