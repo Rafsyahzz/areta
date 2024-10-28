@@ -4,7 +4,7 @@ title: Ingin Menjadi Ahli Jaringan? Ikuti Kursus Mikrotik di Areta Training Cent
 date: 2023-07-12T07:56:51.683Z
 description: Kursus Mikrotik dirancang untuk membantu Anda menjadi ahli jaringan dalam waktu singkat.
 featuredpost: false
-featuredimage: /img/banner-areta-college.jpg
+featuredimage: /img/Mikrotik.jpg
 tags:
   - kampus digital
   - sertifikasi mikrotik
@@ -17,7 +17,7 @@ tags:
   - networking with mikrotik
 ---
 
-![Kampus Full Praktik](/img/aic-ayu-semangat.jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/areta-college-kampus-it.jpg "Kampus Full Praktik")
 
 Mengawali semester pertama di **Kampus Areta** membawa mahasiswa langsung terjun ke dalam dunia **basic networking** dengan perangkat **MikroTik**. Bagi calon praktisi IT, terutama yang ingin mendalami jaringan komputer, mata kuliah ini memberikan pengalaman belajar yang benar-benar berbeda. Dengan metode **full praktek** dan dukungan langsung dari dosen yang berpengalaman sebagai praktisi di bidang networking, mahasiswa akan langsung mempelajari konsep jaringan dasar sambil menggunakan perangkat nyata.
 
