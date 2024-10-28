@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Ingin Menjadi Ahli Jaringan? Ikuti Kursus Mikrotik di Areta Training Center Tangerang
-date: 2023-07-12T07:56:51.683Z
+date: 2024-10-28
 description: Kursus Mikrotik dirancang untuk membantu Anda menjadi ahli jaringan dalam waktu singkat.
 featuredpost: false
 featuredimage: /img/Mikrotik.jpg
