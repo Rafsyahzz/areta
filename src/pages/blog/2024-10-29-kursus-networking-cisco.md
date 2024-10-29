@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kursus Networking Cisco di Areta Training Center: Bekal Sukses di Dunia Digital
+title: Kursus Networking Cisco di Areta Training Center, Bekal Sukses di Dunia Digital
 date: 2024-10-29
 description: Pelajari langsung dari pakar industri dalam kursus Networking Cisco di Areta Training Center. Dapatkan sertifikasi yang diakui dan tingkatkan prospek karir Anda di dunia jaringan profesional.
 featuredpost: false
