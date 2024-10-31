@@ -35,3 +35,5 @@ Sebagai pusat pelatihan yang menitikberatkan pada pembelajaran praktek, Areta Tr
 Dengan kurikulum yang mendukung full praktek, Areta Training Center membantu peserta membangun keahlian di bidang jaringan Kubernetes. Pengalaman belajar seperti ini menjadi modal utama bagi mereka yang ingin mengembangkan karir di industri teknologi, khususnya dalam jaringan kontainer. Bekal ini akan mempersiapkan peserta untuk menghadapi tantangan jaringan dalam dunia digital yang semakin terhubung.
 
 Areta Training Center adalah pilihan tepat bagi Anda yang mencari pusat pelatihan IT dengan fokus pada belajar Kubernetes networking dan menyediakan pembelajaran full praktek secara langsung dalam kelas.
+
+Informasi lebih lanjut hubungi : wa.me/6285219507377
