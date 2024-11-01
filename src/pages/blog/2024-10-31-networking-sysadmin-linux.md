@@ -4,7 +4,7 @@ title: Menjadi Ahli Networking & Sysadmin Linux Server Bersama Areta Training Ce
 date: 2024-10-31
 description: Pelatihan Networking & Sysadmin Linux Server di Areta Training Center membekali peserta dengan keterampilan praktis dalam pengelolaan jaringan dan administrasi server Linux yang siap untuk tantangan dunia IT
 featuredpost: false
-featuredimage: /img/linux.jpg
+featuredimage: /img/linux2.jpg
 tags:
   - sertifikasi linux
   - full praktek
@@ -18,7 +18,7 @@ tags:
   - linux fundamental
 ---
 
-![Kampus Full Praktik](/img/kubernetes,jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/linux2.jpg "Kampus Full Praktik")
 
 Mengikuti pelatihan Sysadmin Linux Server di Areta Training Center memberikan peserta kesempatan untuk menyelami konsep-konsep dasar administrasi server dalam ekosistem Linux. Bagi para calon profesional IT, terutama yang berfokus pada pengelolaan server, pelatihan ini menyuguhkan pengalaman belajar yang praktis dan aplikatif. Dengan metode full praktek dan dukungan instruktur berpengalaman di bidang Linux, peserta akan memahami cara membangun dan mengelola server yang handal dan aman.
 
