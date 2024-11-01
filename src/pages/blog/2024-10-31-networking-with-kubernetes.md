@@ -18,7 +18,7 @@ tags:
   - kubernetes fundamental
 ---
 
-![Kampus Full Praktik](/img/kubernetes,jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/kubernetes.jpg "Kampus Full Praktik")
 
 Mengikuti pelatihan Networking with Kubernetes di Areta Training Center memberikan peserta kesempatan langsung untuk menyelami konsep-konsep dasar jaringan dalam ekosistem Kubernetes. Bagi para calon profesional IT, terutama yang berfokus pada teknologi kontainer, pelatihan ini menyuguhkan pengalaman belajar yang praktis dan aplikatif. Dengan metode full praktek dan dukungan instruktur berpengalaman di bidang Kubernetes, peserta akan memahami cara membangun dan mengelola jaringan dalam lingkungan Kubernetes yang dinamis.
 
