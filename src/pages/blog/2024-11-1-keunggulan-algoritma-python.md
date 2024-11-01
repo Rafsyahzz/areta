@@ -5,7 +5,8 @@ date: 2024-11-1
 description: Mendalami Logika Pemrograman dan Algoritma Python. Metode Pembelajaran Terbaik di Areta Informatics College
 featuredpost: false
 featuredimage: /img/pythondua.jpg
-KeunggulanBelajarPython
+tags:
+- KeunggulanBelajarPython
 - AlgoritmaPythonAreta
 - MahasiswaITAreta
 - BelajarAlgoritmaDiAreta
