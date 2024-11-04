@@ -26,19 +26,19 @@ Mengikuti pelatihan Networking with Mikrotik di Areta Training Center memberikan
 Mikrotik adalah salah satu perangkat jaringan yang banyak digunakan oleh perusahaan dalam mengelola infrastruktur jaringan mereka. Memiliki kemampuan untuk mengonfigurasi dan mengelola jaringan Mikrotik menjadi nilai tambah bagi para profesional IT. Di Areta Training Center, peserta belajar mulai dari dasar-dasar jaringan, pengaturan routing, hingga pengelolaan keamanan jaringan, sehingga siap menghadapi tantangan di dunia IT.
 
 ### Kesalahan Umum yang Sering Terjadi
-Konfigurasi Firewall yang Tidak Tepat
+1.Konfigurasi Firewall yang Tidak Tepat
 Banyak pengguna Mikrotik tidak mengonfigurasi firewall dengan benar, sehingga jaringan menjadi rentan. Peserta pelatihan akan diajarkan cara melakukan konfigurasi firewall yang efektif untuk melindungi jaringan.
 
-1.Penggunaan Password yang Lemah
+2.Penggunaan Password yang Lemah
 Menggunakan password default atau yang mudah ditebak adalah kesalahan umum. Peserta akan belajar pentingnya pengaturan password yang kuat dan bagaimana cara mengelolanya.
 
-2.Pengaturan Bandwidth yang Tidak Optimal
+3.Pengaturan Bandwidth yang Tidak Optimal
 Sering kali, pengguna tidak melakukan pengaturan bandwidth dengan baik, yang mengakibatkan trafik jaringan tidak terkelola. Pelatihan di Areta Training Center akan memberikan wawasan tentang cara mengelola bandwidth secara efisien.
 
-3.Keterlambatan dalam Memperbarui Firmware
+4.Keterlambatan dalam Memperbarui Firmware
 Mengabaikan pembaruan firmware dapat menyebabkan masalah keamanan. Dalam pelatihan, peserta akan diajarkan pentingnya memperbarui perangkat Mikrotik secara berkala.
 
-4.Tidak Memanfaatkan Fitur Monitoring
+5.Tidak Memanfaatkan Fitur Monitoring
 Banyak pengguna yang tidak memanfaatkan fitur monitoring yang disediakan oleh Mikrotik. Peserta akan diajarkan cara menggunakan fitur ini untuk memantau kesehatan jaringan secara real-time.
 
 ### Instruktur Profesional dan Berpengalaman
