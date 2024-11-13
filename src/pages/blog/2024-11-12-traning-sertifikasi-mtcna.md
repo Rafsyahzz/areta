@@ -4,7 +4,7 @@ title: Tingkatkan Karier dengan Sertifikasi MikroTik MTCNA di Areta Informatics 
 date: 2024-11-12
 description: Training Sertifikasi MikroTik MTCNA di Areta Informatics College dirancang untuk membekali peserta dengan pemahaman dasar tentang konfigurasi, manajemen, dan troubleshooting jaringan menggunakan perangkat MikroTik. Program ini cocok bagi pemula maupun profesional yang ingin meningkatkan kompetensi dan membuka peluang karier di bidang jaringan.
 featuredpost: false
-featuredimage: /img/traningnetwork.jpg
+featuredimage: /img/MTCNA.jpg
 tags:
   - TrainingMikroTikMTCNA
   - PelatihanMTCNAProfesional
@@ -18,7 +18,7 @@ tags:
   - KuliahFullPraktek
 ---
 
-![Kampus Full Praktik](/img/traningnetwork.jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/MTCNA.jpg "Kampus Full Praktik")
 
 Di era digital, kebutuhan akan tenaga ahli jaringan semakin meningkat. MikroTik Certified Network Associate (MTCNA) adalah sertifikasi yang memberikan dasar pengetahuan dan keterampilan untuk mengelola jaringan menggunakan perangkat MikroTik. Areta Informatics College hadir dengan program Training Sertifikasi MTCNA yang dirancang untuk membantu peserta memahami konsep jaringan, konfigurasi router, hingga troubleshooting secara efektif.
 
