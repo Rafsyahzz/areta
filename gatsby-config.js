@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Kampus IT dan Bisnis Full Praktek dengan Pengajar Praktisi di Tangerang",
-    description: "Kampus IT dan Bisnis Digital terbaik di Tangerang dengan pengajaran full praktek. Menyediakan pelatihan jaringan komputer, Mikrotik, dan sertifikasi MTCNA.",  
+    title: "Kampus IT full Praktek Tangerang | Kampus Bisnis Digital Full Praktek Tangerang| kampus IT indonesia",
+    description: "Kampus IT dan Kampus Bisnis Digital terbaik di Tangerang Indonesia dengan pengajaran full praktek. Menyediakan pelatihan networking,sertifikasi Mikrotik, dan sertifikasi BNSP.",  
     author : "eka",
-    keywords: "Kampus IT Tangerang, Kampus full praktek, Kampus IT Full Praktek, Kampus Bisnis Digital, Kuliah IT Tangerang, Pelatihan Jaringan Tangerang, Sertifikasi MikroTik, Training MTCNA Tangerang, Jurusan Teknik Informatika Tangerang, Pelatihan jaringan tangerang, belajar jaringan mikrotik, kursus mikrotik tangerang, kursus cisco tangerang ",
+    keywords: "Kampus IT Tangerang, Kampus IT full praktek, Kampus IT indonesia, kampus IT terdekat, kampus teknik informatika, Kampus Bisnis Digital,  Kampus Bisnis Digital tangerang, kampus bisnis digital terdekat, Kuliah IT Tangerang, kuliah IT terbaik, kuliah it indonesia, kuliah it full praktek, kuliah it areta informatics college, kursus Jaringan komputer, kursus jaringan komputer tangerang, kursus komputer, kursus komputer tangerang, Sertifikasi MikroTik, sertifikasi ikrotik tangerang, sertifikasi mikrotik indonesia, Training MTCNA Tangerang, Jurusan Teknik Informatika, jurusan teknik informatika tangerang, Pelatihan jaringan tangerang, pelatihan jaringan mikrotik, belajar jaringan mikrotik, kursus mikrotik tangerang, kursus cisco tangerang ",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
