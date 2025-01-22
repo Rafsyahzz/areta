@@ -72,7 +72,7 @@ module.exports = {
       "Kampus Full Praktek indonesia",
       "Kampus Full Praktek terdekat",
       "Kampus Full Praktek terdekat di Banten",
-      "Kampus Full Praktek terdekat di desa Kelapa Dua",
+      "Kampus Full Praktek terdekat di kota tangerang",
       "Kampus Full Praktek terdekat di Karawaci",
       "Kampus IT",
       "Kampus IT Areta Informatics College Banten",
