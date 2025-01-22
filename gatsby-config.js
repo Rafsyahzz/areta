@@ -34,7 +34,7 @@ module.exports = {
       "Jurusan Teknik Informatika", 
       "jurusan teknik informatika tangerang", 
       "Pelatihan jaringan tangerang", 
-      "pelatihan jaringan mikrotik:, 
+      "pelatihan jaringan mikrotik", 
       "belajar jaringan mikrotik", 
       "kursus mikrotik tangerang", 
       "kursus cisco tangerang",
@@ -79,7 +79,7 @@ module.exports = {
       "Kampus IT Areta Informatics College Karawaci",
       "Kampus IT Areta Informatics College Tangerang",
       "Kampus IT Areta Informatics College terbaik di indonesia",
-      "Kampus IT Areta Informatics College terdekat".
+      "Kampus IT Areta Informatics College terdekat",
       "Kampus IT Areta Informatics College terdekat di Banten",
       "Kampus IT Areta Informatics College terdekat di Karawaci",
       "Kampus IT terdekat",
