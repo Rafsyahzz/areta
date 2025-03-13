@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Training Sertifikasi MTCNA di Areta Informatics College Tangerang 
+title: Training Sertifikasi MTCNA di Areta Informatics College Tangerang Indonesia 
 date: 2024-08-19
-description: Training Sertifikasi MTCNA di Areta Informatics College Tangerang, Kesuksesan di Juli 2024
+description: Training Sertifikasi MTCNA di Areta Informatics College Tangerang Kesuksesan di Juli 2024
 featuredpost: false
 featuredimage: /img/Training-IT.jpg
 tags:
@@ -24,6 +24,12 @@ tags:
   - Pelatihan IT 2024
   - MTCNA
   - basic mikrotik training
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
+  - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
+  - kampus di tangerang
+  - Kuliah IT Tangerang
 ---
 
 ![Training IT](/img/Training-IT.jpg "Training IT")

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Meningkatkan Karir Anda dengan Training MTCNA 
+title: Meningkatkan Karir Anda dengan Training MTCNA Tangerang Indonesia 
 date: 2024-08-19
 description: Meningkatkan Karir Anda dengan Training MTCNA:di Kampus Full Praktek Areta Informatics College
 
@@ -25,7 +25,11 @@ tags:
   - training mtcna indonesia
   - training mtcna tangerang selatan
   - Training MTCNA 
-      
+  - Kampus IT Tangerang
+  - Kampus IT Tangerang Selatan
+  - Kampus IT Terdekat
+  - Kampus IT Terdekat dari lokasi saya
+  - Kuliah IT Tangerang     
 ---
 
 ![Training MTCNA](/img/MTCNA.jpg "Training MTCNA")
