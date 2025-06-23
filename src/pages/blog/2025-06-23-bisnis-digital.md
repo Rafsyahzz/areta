@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kuliah Bisnis Digital di Areta Informatics College. Menguasai Teknologi Modern dan Strategi Bisnis Terkini untuk Sukses di Era Digital
+title: Belajar
 date: 2024-10-26
 description: Kuliah Bisnis Digital di Areta Informatics College. Pilihan Tepat dan Strategis Menuju Karier Sukses di Industri Berbasis Teknologi Modern dengan Penguasaan Mendalam pada Inovasi Digital dan Bisnis Terkini
 featuredpost: false
