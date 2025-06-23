@@ -6,7 +6,7 @@ description: Kuliah Bisnis Digital di Areta Informatics College. Pilihan Tepat d
 featuredpost: false
 featuredimage: /img/kuliah-bisnis-digitall.jpg
 tags:
-- KuliahBisnisDigital	
+- KuliahBisnisDigital areta
 - BisnisDigitalTerkini	
 - MahasiswaBisnisDigital	
 - JurusanBisnisDigital	
