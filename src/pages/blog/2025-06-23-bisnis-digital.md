@@ -18,7 +18,7 @@ tags:
 - KampusBisnisModern	
 ---
 
-![Kampus Full Praktik](/img/kuliah-bisnis-digitall.jpg "Kampus Full Praktik")
+![Kampus Full Praktik](/img/aic-ayu-semangat1.png "Kampus Full Praktik")
 
 Perkembangan pesat teknologi telah mengubah berbagai aspek kehidupan manusia, termasuk dalam bidang bisnis. Saat ini, hampir semua industri berlomba-lomba untuk memanfaatkan teknologi digital demi memperkuat posisi mereka di pasar, meningkatkan efisiensi, dan memberikan pengalaman terbaik kepada pelanggan.																				
 																				
