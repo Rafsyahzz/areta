@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Jadilah Web Developer Andal dengan Menguasai Tailwind CSS di Areta Informatics College
-date: 2024-11-11
+date: 2024-11-11T07:56:51.683Z
 description: Menguasai Tailwind CSS di Areta Informatics College. Langkah Efektif untuk Menjadi Web Developer Andal dengan Penguasaan Skill CSS Modern yang Menghasilkan Website Profesional
 featuredpost: false
 featuredimage: /img/web-developer-areta.jpg

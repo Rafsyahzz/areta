@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Rahasia Belajar Tailwind CSS di Kampus IT Full Praktek Areta Informatics College untuk Karier Web Developer
-date: 2024-11-5
+date: 2024-11-05T07:56:51.683Z
 description: Menguasai Tailwind CSS di Areta Informatics College. Langkah Tepat Menuju Karier Web Developer Profesional dengan Pembelajaran Praktis dan Aplikatif.
 featuredpost: false
 featuredimage: /img/rahasia-tailwindcss.jpg

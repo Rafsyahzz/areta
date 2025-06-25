@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Keunggulan Belajar Algoritma dengan Python di Areta Informatics College untuk Mahasiswa IT
-date: 2024-11-1
+date: 2024-11-01T07:56:51.683Z
 description: Mendalami Logika Pemrograman dan Algoritma Python. Metode Pembelajaran Terbaik di Areta Informatics College
 featuredpost: false
 featuredimage: /img/pythondua.jpg

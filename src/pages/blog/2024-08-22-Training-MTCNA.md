@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Meningkatkan Karir Anda dengan Training MTCNA Tangerang Indonesia 
-date: 2024-08-19
+date: 2024-08-19T07:56:51.683Z
 description: Meningkatkan Karir Anda dengan Training MTCNA:di Kampus Full Praktek Areta Informatics College
 
 featuredpost: false

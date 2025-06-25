@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Jadi Ahli Jaringan Profesional dengan Kursus Networking CISCO di Areta Training Center
-date: 2024-11-07
+date: 2024-11-07T07:56:51.683Z
 description: Kursus Networking dengan CISCO di Areta Training Center membantu peserta menguasai dasar-dasar jaringan dengan teknologi CISCO. Pelatihan ini meningkatkan keterampilan routing dan switching untuk karier IT yang sukses. Cocok bagi pemula dan profesional.
 featuredpost: false
 featuredimage: /img/networkingbareng.jpg

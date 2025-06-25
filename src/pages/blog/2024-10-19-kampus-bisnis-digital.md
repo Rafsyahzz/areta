@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kuliah di Areta Informatics College Kampus Bisnis Digital yang Menggabungkan Strategi Bisnis dengan Teknologi Terkini
-date: 2024-10-19
+date: 2024-10-19T07:56:51.683Z
 description: Menggabungkan Strategi Bisnis dan Teknologi Terkini di Areta Informatics College untuk Menciptakan Pemimpin Digital Masa Depan
 featuredpost: false
 featuredimage: /img/kampus-bisnis-digital.jpg

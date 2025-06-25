@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Membangun Website Modern dengan Tailwind CSS:. Studi Kasus di Kampus IT Full Praktek
-date: 2024-11-4
+date: 2024-11-04T07:56:51.683Z
 description: Pelajari cara membangun website modern dengan Tailwind CSS di Areta Informatics College! Melalui pendekatan studi kasus, Anda akan mendapatkan pengalaman langsung dalam merancang antarmuka web yang responsif dan menarik sesuai kebutuhan industri saat ini.
 featuredpost: false
 featuredimage: /img/python-css.jpg

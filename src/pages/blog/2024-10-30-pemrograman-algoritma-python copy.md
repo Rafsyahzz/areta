@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Sulit belajar algoritma pemrograman with python? Temukan solusinya di Kampus IT Areta Informatics College.
-date: 2024-10-30
+date: 2024-10-30T07:56:51.683Z
 description: Solusi untuk Tantangan Belajar Algoritma dengan Python. Pengajaran kuliah IT Full Praktek dan Pembelajaran Terstruktur di Areta Informatics College untuk Menguasai Konsep Pemrograman secara Mendalam.
 featuredpost: false
 featuredimage: /img/python-algoritma.jpg

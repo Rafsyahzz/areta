@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ​Desain Website Modern Tanpa Ribet. Kuasai Tailwind CSS di Kampus IT Full Praktek Areta Informatics College
-date: 2024-11-6
+date: 2024-11-06T07:56:51.683Z
 description: Menguasai Tailwind CSS di Areta Informatics College. Solusi Praktis untuk Menciptakan Desain Website Modern Tanpa Ribet dan Menjadi Profesional Web Developer
 featuredpost: false
 featuredimage: /img/desain-website-css.jpg

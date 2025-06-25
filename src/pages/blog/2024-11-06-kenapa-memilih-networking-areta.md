@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mengapa Areta Informatics College Menjadi Pilihan Terbaik untuk Belajar Networking with MikroTik?
-date: 2024-11-06
+date: 2024-11-06T07:56:51.683Z
 description: Areta Informatics College menjadi pilihan terbaik untuk belajar Networking with MikroTik karena menyediakan kurikulum yang komprehensif, pengajar bersertifikasi, dan fasilitas yang mendukung pembelajaran praktis. Dengan pendekatan berbasis industri, program ini membantu mahasiswa menguasai keterampilan jaringan secara praktis, meningkatkan peluang karir di bidang IT jaringan.
 featuredpost: false
 featuredimage: /img/belajarmikrotik.jpg

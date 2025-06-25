@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kuliah IT Jurusan Informatika Tangerang Indonesia Keren
-date: 2024-08-19
+date: 2024-08-19T07:56:51.683Z
 description: Dalam era digital yang semakin maju, kebutuhan ahli teknologi informasi (IT) terus meningkat. Tangerang telah menjadi pusat pendidikan tinggi yang menawarkan program studi IT terbaik, termasuk di Areta Informatics College, salah satu kampus IT yang menawarkan jurusan Teknik Informatika dengan Metode belajar full praktek.
 featuredpost: false
 featuredimage: /img/aic-ayu-semangat.png

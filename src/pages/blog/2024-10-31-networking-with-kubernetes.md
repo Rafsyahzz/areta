@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pengenalan dan Praktik Networking Kubernetes di Areta Training Center
-date: 2024-10-31
+date: 2024-10-31T07:56:51.683Z
 description: Pelatihan Networking with Kubernetes di Areta Training Center membahas dasar-dasar jaringan Kubernetes untuk mengelola konektivitas aplikasi yang skalabel dan aman, dibimbing oleh instruktur berpengalaman.
 featuredpost: false
 featuredimage: /img/kubernetes.jpg

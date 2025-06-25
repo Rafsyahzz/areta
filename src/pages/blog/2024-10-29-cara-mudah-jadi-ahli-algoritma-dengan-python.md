@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Cara Mudah Jadi Ahli Algoritma dengan Python Dengan Belajar Di Kampus IT Full Praktek Areta Informatics College
-date: 2024-10-29
+date: 2024-10-29T07:56:51.683Z
 description: Belajar Algoritma dengan Python di Kampus IT Full Praktek Areta Informatics College. Langkah Praktis untuk Menguasai Dasar hingga Tingkat Lanjut
 featuredpost: false
 featuredimage: /img/phython.jpg

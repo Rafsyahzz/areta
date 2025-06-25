@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ​Ingin Desain Website Keren? Belajar Tailwind CSS di Areta Informatics College Yuk!
-date: 2024-11-13
+date: 2024-11-13T07:56:51.683Z
 description: Pelajari Tailwind CSS di Areta Informatics College untuk menciptakan desain website modern dan responsif dengan cepat. Langkah tepat untuk menguasai keterampilan CSS yang kuat dan menarik minat industri digital.
 featuredpost: false
 featuredimage: /img/website-menarik.jpg

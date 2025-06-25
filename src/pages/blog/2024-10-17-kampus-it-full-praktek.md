@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kuliah IT di Areta Informatics College, Kampus Full Praktik untuk Karir Cemerlang di Dunia Teknologi
-date: 2024-10-17
+date: 2024-10-17T07:56:51.683Z
 description: Kuliah IT di  Kampus Full Praktek Areta Informatics College yang Mempersiapkan Mahasiswa untuk Karir Sukses di Dunia Teknologi
 featuredpost: false
 featuredimage: /img/kampus-it-full-praktek.jpg

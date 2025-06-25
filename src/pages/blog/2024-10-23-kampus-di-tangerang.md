@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pendidikan Berkualitas di Kampus Areta Informatics College Tangerang. Mempersiapkan Mahasiswa Menghadapi Dunia Kerja
-date: 2024-10-23
+date: 2024-10-23T07:56:51.683Z
 description: Pendidikan Inovatif dan Berkualitas di Kampus Areta Informatics College Tangerang. Menyiapkan Mahasiswa untuk Sukses di Dunia Kerja
 featuredpost: false
 featuredimage: /img/kampus-di-tangerang.jpg

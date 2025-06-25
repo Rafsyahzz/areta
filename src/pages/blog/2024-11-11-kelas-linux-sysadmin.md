@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kelas Linux Sysadmin Server dengan Profesional di Areta Informatics College
-date: 2024-11-11
+date: 2024-11-11T07:56:51.683Z
 description: Temukan kemampuan terbaik dalam pengelolaan sistem berbasis Linux melalui workshop ini. Pelajari cara mengoptimalkan performa server, mengelola user, menangani keamanan, serta menjalankan berbagai layanan penting di lingkungan server. Bersama Areta Informatics College, kamu akan dibimbing oleh instruktur berpengalaman, memastikan setiap peserta mampu menjadi SysAdmin Linux yang handal dan profesional.
 featuredpost: false
 featuredimage: /img/sysadmin.jpg

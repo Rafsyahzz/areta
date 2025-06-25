@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Membangun Desain Web Fleksibel dengan Tailwind CSS. Rahasia Desain Responsif di Areta Informatics College
-date: 2024-11-8
+date: 2024-11-08T07:56:51.683Z
 description: Pelajari cara membangun desain web responsif dan fleksibel menggunakan Tailwind CSS di Areta Informatics College. Temukan metode efektif untuk menciptakan tampilan modern dan fungsional yang bisa beradaptasi di berbagai perangkat.
 featuredpost: false
 featuredimage: /img/desain-website-tailwind.jpg

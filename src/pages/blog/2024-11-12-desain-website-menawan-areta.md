@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Membangun Website Menawan dengan Tailwind CSS. Pengalaman Praktis di Areta Informatics College
-date: 2024-11-12
+date: 2024-11-12T07:56:51.683Z
 description: Membangun Website Modern dengan Tailwind CSS di Areta Informatics College. Langkah Efektif untuk Menguasai Desain Web Responsif dan Menawan yang Berorientasi pada Kebutuhan Industri Digital.
 featuredpost: false
 featuredimage: /img/desain-menawan-areta.jpg

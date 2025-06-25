@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kuliah IT Full Praktek di Areta Informatics College. Pilihan Tepat untuk Karir Cemerlang di Dunia Teknologi.
-date: 2024-10-25
+date: 2024-10-25T07:56:51.683Z
 description: Kuliah IT Full Praktek di Areta Informatics College. Wujudkan Impian Karir Sukses dengan Pendidikan yang Mendorong Keahlian dan Pengalaman Langsung di Dunia Teknologi
 featuredpost: false
 featuredimage: /img/kuliah-it-full-praktekk.jpg

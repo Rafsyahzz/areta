@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kampus IT Areta Informatics College Indonesia. Menghadirkan Pendidikan Berkualitas yang Siap Memenuhi Kebutuhan Era Digital dan Menghasilkan Profesional IT yang Siap Bersaing di Dunia Kerja Modern
-date: 2024-10-24
+date: 2024-10-24T07:56:51.683Z
 description: Kampus IT Areta Informatics College Indonesia. Mewujudkan Pendidikan Berkualitas yang Selaras dengan Kebutuhan Era Digital dan Menyiapkan Profesional IT yang Siap Bersaing di Dunia Kerja Modern
 featuredpost: false
 featuredimage: /img/kampus-it-indonesia.jpg

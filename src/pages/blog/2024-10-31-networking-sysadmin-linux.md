@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Menjadi Ahli Networking & Sysadmin Linux Server Bersama Areta Training Center
-date: 2024-10-31
+date: 2024-10-31T07:56:51.683Z
 description: Pelatihan Networking & Sysadmin Linux Server di Areta Training Center membekali peserta dengan keterampilan praktis dalam pengelolaan jaringan dan administrasi server Linux yang siap untuk tantangan dunia IT
 featuredpost: false
 featuredimage: /img/linux2.jpg

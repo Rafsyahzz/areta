@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Menjadi Master Kubernetes dengan Kelas Advanced di Areta Informatics College
-date: 2024-11-08
+date: 2024-11-08T07:56:51.683Z
 description: Kelas Kubernetes Advanced di Areta Informatics College mengajarkan teknik lanjutan dalam mengelola dan mengoptimalkan kontainer di cloud. Pelatihan ini membantu peserta menguasai orkestrasi kontainer, pengelolaan cluster, dan deployment aplikasi dengan efisien. Bersiaplah menjadi ahli dalam menciptakan infrastruktur cloud yang tangguh.
 featuredpost: false
 featuredimage: /img/belajar.jpg

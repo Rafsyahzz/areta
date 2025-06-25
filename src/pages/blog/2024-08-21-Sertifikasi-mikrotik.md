@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Persiapkan Diri Anda untuk Sertifikasi Mikrotik Tangerang Indonesia 
-date: 2024-08-19
+date: 2024-08-19T07:56:51.683Z
 description: Persiapkan Diri untuk Sertifikasi Mikrotik di Bulan Oktober 2024 di Kampus Full Praktek Areta Informatics College
 
 featuredpost: false

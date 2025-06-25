@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Persiapkan Masa Depan IT Anda dengan Training Cisco di Areta Training Center Tangerang
-date: 2024-11-01
+date: 2024-11-01T07:56:51.683Z
 description: Ayo tingkatkan kemampuan jaringanmu di Training Cisco Areta Training Center Tangerang! Siapkan dirimu untuk karir IT yang gemilang!
 featuredpost: false
 featuredimage: /img/cisco.jpg

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Kuliah di Kampus IT Areta Informatics College Tangerang, Belum Lulus Kuliah Siap Kerja
-date: 2024-10-16
+date: 2024-10-16T07:56:51.683Z
 description: Mengapa Kuliah di Kampus IT Areta Informatics College Tangerang Belum Lulus Kuliah, Sudah Siap Terjun ke Dunia Kerja
   
 featuredpost: false

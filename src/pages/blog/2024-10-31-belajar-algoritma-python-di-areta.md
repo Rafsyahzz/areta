@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Belajar Algoritma dengan Python di Kampus Areta Informatics College. Solusi Efektif untuk Mengasah Logika Pemrograman dan Menjadi Ahli Teknologi Masa Depan
-date: 2024-10-31
+date: 2024-10-31T07:56:51.683Z
 description: Mengasah Logika Pemrograman dengan Algoritma Python di Areta Informatics College. Langkah Awal yang Tepat untuk Menjadi Ahli Teknologi Masa Depan dengan Penguasaan Mendalam pada Keterampilan Digital
 featuredpost: false
 featuredimage: /img/python-satu.jpg

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Menguasai Dasar dan Lanjutan Kubernetes Bersama Areta Training Center
-date: 2024-11-05
+date: 2024-11-05T07:56:51.683Z
 description: Pelatihan Kubernetes di Areta Training Center dirancang untuk membantu peserta menguasai dasar hingga lanjutan orkestrasi aplikasi di cloud. Dapatkan keterampilan praktis dalam manajemen container dan tingkatkan peluang karier di dunia DevOps dan IT!
 featuredpost: false
 featuredimage: /img/bersama.jpg

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ​Membangun Portofolio Modern dengan Tailwind CSS. Dari Teori ke Praktek di Areta Informatics College
-date: 2024-11-7
+date: 2024-11-07T07:56:51.683Z
 description: Menguasai Tailwind CSS untuk Membangun Portofolio Modern di Areta Informatics College. Pendekatan Praktis untuk Membekali Mahasiswa dengan Keterampilan Desain Web yang Menonjol di Era Digital.
 featuredpost: false
 featuredimage: /img/portofolio-tailwindcss.jpg

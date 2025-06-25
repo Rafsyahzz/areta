@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pelatihan Jaringan di Areta Informatics College Tangerang. Menjadi Ahli IT dengan Keterampilan Praktis dan Sertifikasi Profesional
-date: 2024-10-20
+date: 2024-10-20T07:56:51.683Z
 description: Belajar Jaringan dari Ahlinya. Keterampilan Praktis dan Sertifikasi untuk Karir IT di Areta Informatics College Tangerang
 featuredpost: false
 featuredimage: /img/pelatihan-jaringan-tangerang.jpg

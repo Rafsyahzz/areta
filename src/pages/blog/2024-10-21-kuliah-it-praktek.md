@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mengapa Areta Informatics College Tangerang Jadi Pilihan Utama untuk Kuliah IT Full Praktek?
-date: 2024-10-21
+date: 2024-10-21T07:56:51.683Z
 description: Areta Informatics College Tangerang. Pilihan Utama untuk Kuliah IT Berbasis Praktek Nyata yang Mempersiapkan Mahasiswa Menjadi Profesional Unggul di Era Teknologi
 featuredpost: false
 featuredimage: /img/kuliah-it-praktek.jpg
