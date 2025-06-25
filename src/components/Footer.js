@@ -1,10 +1,10 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/social/logo.svg";
+import logo from "../img/logo.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
-import tiktok from "../img/social/tik-tok.png";
+import twitter from "../img/social/tik-tok.png";
 import vimeo from "../img/social/vimeo.svg";
 
 const Footer = () => {
@@ -19,7 +19,7 @@ const Footer = () => {
     </div>
    
     <div class="flex justify-center">
-      <a href="#11" class="mr-6 text-neutral-600 dark:text-neutral-200">
+      <a href="#!" class="mr-6 text-neutral-600 dark:text-neutral-200">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-4 w-4"
@@ -29,7 +29,7 @@ const Footer = () => {
             d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" />
         </svg>
       </a>
-      <a href="#22" class="mr-6 text-neutral-600 dark:text-neutral-200">
+      <a href="#!" class="mr-6 text-neutral-600 dark:text-neutral-200">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           class="h-4 w-4"
